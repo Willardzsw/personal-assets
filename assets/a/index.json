@@ -7,18 +7,18 @@
   "unique_addresses": 8665,
   "unique_status": {
     "unverified": 314,
-    "passed": 2395,
-    "failed": 5956
+    "passed": 2394,
+    "failed": 5957
   },
   "lists": [
     {
       "name": "自选 · IPv4频道",
       "original_entries": 1013,
-      "retained_entries": 175,
+      "retained_entries": 174,
       "original_lines": 1013,
       "line_status": {
-        "failed": 799,
-        "passed": 175,
+        "failed": 800,
+        "passed": 174,
         "unverified": 39
       },
       "path": "vendor/one/lib/ipv4.m3u"
@@ -59,11 +59,11 @@
     {
       "name": "migu720",
       "original_entries": 635,
-      "retained_entries": 515,
+      "retained_entries": 514,
       "original_lines": 637,
       "line_status": {
-        "passed": 516,
-        "failed": 95,
+        "passed": 515,
+        "failed": 96,
         "unverified": 26
       },
       "path": "vendor/external/2615dcf76d09/LiTV.m3u"
@@ -83,11 +83,11 @@
     {
       "name": "ZBDS",
       "original_entries": 666,
-      "retained_entries": 580,
+      "retained_entries": 579,
       "original_lines": 674,
       "line_status": {
-        "passed": 586,
-        "failed": 67,
+        "passed": 585,
+        "failed": 68,
         "unverified": 21
       },
       "path": "vendor/external/4a83ea463e6a/iptv4.txt"
@@ -131,8 +131,8 @@
   "files": [
     {
       "path": "vendor/one/lib/ipv4.m3u",
-      "sha256": "de77e903b43fef7680ba393adce13c206c755a4153c502f7be58973ea08e6e9a",
-      "bytes": 38495
+      "sha256": "84c53295dc55382f8d07ae8004b94ec84fdbd94adf11e1716d1c99b0dd52ef5b",
+      "bytes": 38640
     },
     {
       "path": "vendor/one/lib/lvse.txt",
@@ -146,8 +146,8 @@
     },
     {
       "path": "vendor/external/2615dcf76d09/LiTV.m3u",
-      "sha256": "8e6133c37cc0b4e1bc14f3267b05bd563f156d30844c9434efea45343068acb1",
-      "bytes": 105089
+      "sha256": "991edcc7776f3e751b783be6b1fdf53975c090244bdf786e209b0512a2498e54",
+      "bytes": 105936
     },
     {
       "path": "vendor/external/92e9fde3dde9/Internet_iTV.m3u",
@@ -156,8 +156,8 @@
     },
     {
       "path": "vendor/external/4a83ea463e6a/iptv4.txt",
-      "sha256": "a3dc266662e85f50171599138203b68b622e1be6fab4b35df4a7922b8bcb7b8f",
-      "bytes": 48948
+      "sha256": "5de26fea5317b918803a01137b2baccd0af5383ca32c70ec8875629dd6db4887",
+      "bytes": 49479
     },
     {
       "path": "vendor/external/c0d0d9cf2328/gggg.nzk.txt",
@@ -177,5 +177,12 @@
   ],
   "deleted": [
     "vendor/one/js/ITV.txt"
+  ],
+  "follow_up_checks": [
+    {
+      "checked_at": "2026-09-21T10:06:41.457943+00:00",
+      "reason": "User reported container parsing error; two probes showed truncated/corrupt MPEG-TS and decoder errors. Removed matching address from all three lists.",
+      "removed_records": 3
+    }
   ]
 }
