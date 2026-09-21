@@ -5,20 +5,23 @@
     {
       "path": "vendor/external/c5edfeb6a943/tv.txt",
       "source": "http://iptv.ruyitv.cc/m3u/tv.txt",
-      "sha256": "dbbedd9d18afdcfca5127387661d8a62c2bf754f6d815342a75d113bba0c53da",
-      "bytes": 3916
+      "sha256": "26e875d8effe22e997b6de9b015f918dd694758a0bf477d927b142107f99b67a",
+      "bytes": 2566,
+      "filtered": true
     },
     {
       "path": "vendor/external/7cf5f79339b0/interfaceTXT.txt",
       "source": "http://migu.lengye.top/interfaceTXT.txt",
-      "sha256": "16f93c808ec2e2cd1861d879fe9300d7ce19198c6999a1bdcbeabaa8f0262ce9",
-      "bytes": 32380
+      "sha256": "55a16650b983d72788e4ab8ca447c8027b6c3c63b0997228c261616bf4d091fc",
+      "bytes": 6062,
+      "filtered": true
     },
     {
       "path": "vendor/external/c0d0d9cf2328/gggg.nzk.txt",
       "source": "http://rihou.cc:555/gggg.nzk",
-      "sha256": "e0621e6890a0155d88bac0b03d0645bcec1868a5808626e680b319831a4250d9",
-      "bytes": 119416
+      "sha256": "90e5809eceb4649688b1fb66276c196c2b827d2f0a57f318a123c2bebade5e37",
+      "bytes": 73800,
+      "filtered": true
     },
     {
       "path": "vendor/external/26c6cd5d3ed5/fm.png.jar",
@@ -35,14 +38,16 @@
     {
       "path": "vendor/external/7d6a4531644c/ipv6.m3u",
       "source": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "sha256": "935849a6e2f083884a450510c6c000ee4535fc139f0fca168f51dcfcbfce44f8",
-      "bytes": 25215
+      "sha256": "1ba39f9b9decf54a9b5f1fa3d3d1edebbebfad9ac0828310d921e31f30e626df",
+      "bytes": 2393,
+      "filtered": true
     },
     {
       "path": "vendor/external/4a83ea463e6a/iptv4.txt",
       "source": "https://live.zbds.top/tv/iptv4.txt",
-      "sha256": "4c2051d729c52669485355e5156047d871077aaec25157386fa35d291e3d32b1",
-      "bytes": 55224
+      "sha256": "a3dc266662e85f50171599138203b68b622e1be6fab4b35df4a7922b8bcb7b8f",
+      "bytes": 48948,
+      "filtered": true
     },
     {
       "path": "vendor/external/b1d8aea9361b/1fe667cd217a0c314b8ca59310dbf45d.jpg.jar",
@@ -113,14 +118,16 @@
     {
       "path": "vendor/external/92e9fde3dde9/Internet_iTV.m3u",
       "source": "https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
-      "sha256": "6bceac3a8760b7e60a0a84f6f74c02a9bda7f9b1bd36480dd8ccb2a48864e902",
-      "bytes": 782217
+      "sha256": "6aa603fbe5458a2d049d2cbff3eb32fdd0a4f3e324b832f0f408dc78dcc8adba",
+      "bytes": 145388,
+      "filtered": true
     },
     {
       "path": "vendor/external/2615dcf76d09/LiTV.m3u",
       "source": "https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/LiTV.m3u",
-      "sha256": "0dc60e3d4b5e67326cb719479267e66c0d5706cc5cc4955c93515d697cdc7507",
-      "bytes": 126917
+      "sha256": "8e6133c37cc0b4e1bc14f3267b05bd563f156d30844c9434efea45343068acb1",
+      "bytes": 105089,
+      "filtered": true
     },
     {
       "path": "vendor/one/XBPQ/养生堂.json",
@@ -139,12 +146,6 @@
       "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/%E5%92%96%E5%95%A1%E7%9B%B4%E6%92%AD.js",
       "sha256": "b717c1de85ae64b73dc6a8e2aed0d8e180def1562173c40fe72c26cd88798aa6",
       "bytes": 11336
-    },
-    {
-      "path": "vendor/one/js/ITV.txt",
-      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/ITV.txt",
-      "sha256": "0419f5f0180ef2c93cb118c5dd5036b3eaa194bf1e86e1c9e8706126655044f2",
-      "bytes": 84558
     },
     {
       "path": "vendor/one/js/jys.js",
@@ -287,14 +288,16 @@
     {
       "path": "vendor/one/lib/ipv4.m3u",
       "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/lib/ipv4.m3u",
-      "sha256": "33a605cc8239913dca26b54457abe79ac72cf5a9c0b6043da052bfa272d209d1",
-      "bytes": 220193
+      "sha256": "de77e903b43fef7680ba393adce13c206c755a4153c502f7be58973ea08e6e9a",
+      "bytes": 38495,
+      "filtered": true
     },
     {
       "path": "vendor/one/lib/lvse.txt",
       "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/lib/lvse.txt",
-      "sha256": "954fd1ea03aa536c40739a17222630363f32d8e27e7225c4d3460f1cc383afae",
-      "bytes": 199332
+      "sha256": "4f350d1b7c0f83f8456f09fa2bc037de99e52d2d2920fe7847db0fd3058c748b",
+      "bytes": 48370,
+      "filtered": true
     },
     {
       "path": "vendor/one/py/七星.py",
