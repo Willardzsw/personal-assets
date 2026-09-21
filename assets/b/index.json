@@ -1,0 +1,148 @@
+{
+  "profile": "profile-b.json",
+  "files": [
+    {
+      "path": "assets/b/engine.jar",
+      "sha256": "56ae978952f639310d9036e77b0604cd23eb444980cd9b96a6612f24019e9acf",
+      "bytes": 3153679
+    },
+    {
+      "path": "assets/b/mark.gif",
+      "sha256": "5d0e71b85da9d6104cd9b6a5caf165435e4406292384b26d624d211dd1a43dfa",
+      "bytes": 121115
+    },
+    {
+      "path": "assets/b/resource-01.json",
+      "sha256": "c015a387f593f76028706d5c59af5c99352b6ddd165a84bfca199ed40b72f14b",
+      "bytes": 49359
+    },
+    {
+      "path": "assets/b/resource-02.json",
+      "sha256": "4aa684f5e94adaa01d91ad699690072ff12074b119a792fe8367d3bd9585d35a",
+      "bytes": 102193
+    },
+    {
+      "path": "assets/b/runtime.json",
+      "sha256": "54640d3db4c908fa2f1ccc9e9a3e4b3281bf5c8cd07d153d5a1282121b7dff0d",
+      "bytes": 496
+    },
+    {
+      "path": "assets/b/manju_novel_script.txt",
+      "sha256": "b163a970e12ffbcb62e285da19cec5199ab6cf16df600ce2194d030cc0ebeb79",
+      "bytes": 1983
+    },
+    {
+      "path": "assets/b/manju_original_script.txt",
+      "sha256": "c33f466fa5b494d8d452836aba324c735b73ebb1e12bfa2f83845dff2b5c28a3",
+      "bytes": 1742
+    },
+    {
+      "path": "assets/b/manju_reverse_script.txt",
+      "sha256": "71f9bfa34f6f4b17f32552cf8e5bbbe191af134f4e713522863a471f9f71a3de",
+      "bytes": 599
+    },
+    {
+      "path": "assets/b/manju_shot_10s.txt",
+      "sha256": "4e1123f61a1924689c1775bd44490516ac8b0d4b93e1fabe4b284c097ab3ae4c",
+      "bytes": 15441
+    },
+    {
+      "path": "assets/b/manju_sim_shot_10s.txt",
+      "sha256": "c0822c3a8cc70b2550887fadfdaa800960a3bf735290e93e0a196da0c1af4394",
+      "bytes": 15496
+    },
+    {
+      "path": "assets/b/manju_3d_shot_4_15s.txt",
+      "sha256": "1bbb9e9ab7443e63df9972e6a21f5d90d08c87e1a7cbecf40f12a072ffe4aecf",
+      "bytes": 8253
+    },
+    {
+      "path": "assets/b/manju_sim_shot_5_10s.txt",
+      "sha256": "06e82646af4adb1b4690e0997aac83963368d56f58a0282ba07c7cddcd2124a9",
+      "bytes": 6535
+    },
+    {
+      "path": "assets/b/manju_3d_shot_5_10s.txt",
+      "sha256": "8463dde3d5af56c1a505ebd75fb6c9dde85168682d3e47f145768977ca737122",
+      "bytes": 4795
+    },
+    {
+      "path": "assets/b/manju_fight_prefix.txt",
+      "sha256": "5b50cb2e7b63b187dd53bedf383c080e491834d4b6f43cc3bf23dbf07cfd447f",
+      "bytes": 458
+    },
+    {
+      "path": "assets/b/manju_screen_through.txt",
+      "sha256": "88a9efc1faaa9ad0182543e4e8665a28fe455baf1c21d4996b66ca587555ddf3",
+      "bytes": 5542
+    },
+    {
+      "path": "assets/b/manju_scene_sim.txt",
+      "sha256": "712aa5ca6a7569f4c2530a8f6641aa983ebc64ad888fcf7988765286786cbf19",
+      "bytes": 1719
+    },
+    {
+      "path": "assets/b/manju_asset_3d.txt",
+      "sha256": "1e94cc118dcca816f4262b6d4aad396e451fddeca119e047e8fe96a8ade3542b",
+      "bytes": 11966
+    },
+    {
+      "path": "assets/b/manju_asset_sim.txt",
+      "sha256": "026c4471cf576104a0b6a1ac539d2d9a87fe2047baedc30c9244ea992382a4b7",
+      "bytes": 11938
+    },
+    {
+      "path": "assets/b/manju_asset_3d_final.txt",
+      "sha256": "6c1bdfc16f0c32a74fa1465612b3bb507de74949aa8f01c8e2e933b1c6bdf596",
+      "bytes": 10500
+    },
+    {
+      "path": "assets/b/manju_role_2d.txt",
+      "sha256": "ae2fe446bda0cfa10aaa4e43dcd4b137d1829cc5dcbf8447f431d607c6742e3d",
+      "bytes": 800
+    },
+    {
+      "path": "assets/b/manju_three_view_wide.txt",
+      "sha256": "2ffc9f3a38e18f84132abc612f37ef5642c7fb8e711f17487573d926a0b6c120",
+      "bytes": 470
+    },
+    {
+      "path": "assets/b/manju_three_view_apose.txt",
+      "sha256": "adab2be79a95ab5c353c9750a2ce694aa34c303fb5d85b3812f1b45ae51d73d4",
+      "bytes": 888
+    },
+    {
+      "path": "assets/b/manju_veo_host.txt",
+      "sha256": "ae7318af747eb661e19ba05e39591e3d766efbf85a37245343d3207ac098565f",
+      "bytes": 29856
+    },
+    {
+      "path": "assets/b/manju_workflow.txt",
+      "sha256": "cfdab0ba0436b9610f3f931d06a67201f0ebb39f687828672966dd1c6b574f52",
+      "bytes": 1892
+    },
+    {
+      "path": "assets/b/runtime-4d70be9653.zip",
+      "sha256": "05c9d91d99e50b2bf23059831594d2a98cbcbce13aa4b6ae615baef8d44bd008",
+      "bytes": 699962
+    }
+  ],
+  "external_references_remaining": [
+    "https://jk.catvod.site/jk/t4/manju_wengan.txt",
+    "https://jk.catvod.site/jk/t4/manju_wengan_pangbai.txt",
+    "https://jk.catvod.site/jk/t4/manju_rewrite.txt",
+    "https://jk.catvod.site/jk/t4/manju_original_urban.txt",
+    "https://jk.catvod.site/jk/t4/manju_novel_shot_live.txt",
+    "https://jk.catvod.site/jk/t4/manju_shot_15s.txt",
+    "https://jk.catvod.site/jk/t4/manju_sim_shot_15s.txt",
+    "https://jk.catvod.site/jk/t4/manju_sim_shot_4_15s.txt",
+    "https://jk.catvod.site/jk/t4/manju_scene.txt",
+    "https://jk.catvod.site/jk/t4/manju_asset_2d_final.txt",
+    "https://jk.catvod.site/jk/t4/manju_role_3d.txt",
+    "https://jk.catvod.site/jk/t4/manju_role_sim.txt",
+    "https://jk.catvod.site/jk/t4/manju_three_view.txt",
+    "https://jk.catvod.site/jk/ntv/ntv-native-arm64-v8a.zip"
+  ],
+  "binary_runtime_references_rewritten": false,
+  "playback_verified": false
+}

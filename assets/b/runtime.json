@@ -1,0 +1,16 @@
+{
+  "arm64-v8a": {
+    "url": "https://jk.catvod.site/jk/ntv/ntv-native-arm64-v8a.zip",
+    "md5": "24bf5e6108a0c5d0c95a24e7e228377e",
+    "file": "ntv-native-arm64-v8a.zip",
+    "size": 660186
+  },
+  "version": 1,
+  "updated": "2026-09-04 22:05:00",
+  "armeabi-v7a": {
+    "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/assets/b/runtime-4d70be9653.zip",
+    "md5": "4236877faa7cc74f15434d4c18003601",
+    "file": "ntv-native-armeabi-v7a.zip",
+    "size": 699962
+  }
+}
