@@ -60,14 +60,6 @@
       "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/c5edfeb6a943/tv.txt",
       "timeout": 10,
       "playerType": 2
-    },
-    {
-      "name": "央视补充",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/assets/b/channels.m3u",
-      "ua": "Mozilla/5.0",
-      "referer": "https://tv.cctv.com/",
-      "playerType": 2
     }
   ],
   "sites": [

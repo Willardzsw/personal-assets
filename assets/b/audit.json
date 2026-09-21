@@ -1,0 +1,1071 @@
+{
+  "checked_at": "2026-09-21T12:21:08.050769+00:00",
+  "original_entries": [
+    {
+      "name": "🧠专家库[应用]",
+      "api": "csp_ZhuanJia",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🎮小霸王[游戏]",
+      "api": "csp_Yikm",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🗂️MT管理器[工具]",
+      "api": "csp_ShellInjectTool",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🌐Via浏览器[工具]",
+      "api": "csp_ShellInjectTool",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🔖书签[自定义]",
+      "api": "csp_ResMgr",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📝文本[应用]",
+      "api": "csp_ResMgr",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🧩益智[游戏]",
+      "api": "csp_YiZhi",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📐几何[游戏]",
+      "api": "csp_JiHe",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📝造句[图库]",
+      "api": "csp_Zaoju",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🎨画廊[图库]",
+      "api": "csp_HuaLang",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "✨创意[图库]",
+      "api": "csp_ChuangYi",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🎬创意库[图库]",
+      "api": "csp_ChuangYiV",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📝提示词[应用]",
+      "api": "csp_ManJu",
+      "class_present": true,
+      "configuration_dependency_present": true,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📦资源[应用]",
+      "api": "csp_ShellInjectTool",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📖小说[本地]",
+      "api": "csp_ResMgr",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🖼️画廊[自定义]",
+      "api": "csp_ResMgr",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🔓解密[工具]",
+      "api": "csp_DecryptConfig",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🛠️环境[配置]",
+      "api": "csp_BinMarket",
+      "class_present": true,
+      "configuration_dependency_present": true,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "⬇️下载器[工具]",
+      "api": "csp_ShellInjectTool",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "📺PushTV[工具]",
+      "api": "csp_ShellInjectTool",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🖼️壁纸[图库]",
+      "api": "csp_WpLib",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    },
+    {
+      "name": "🐚默壳管理[工具]",
+      "api": "csp_ShellInjectTool",
+      "class_present": true,
+      "configuration_dependency_present": null,
+      "runtime_verified": false,
+      "status": "requires_android_runtime"
+    }
+  ],
+  "plugin_integrity_valid": true,
+  "dependencies": [
+    {
+      "path": "assets/b/engine.jar",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/mark.gif",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/resource-01.json",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/resource-02.json",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/runtime.json",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_novel_script.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_original_script.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_reverse_script.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_shot_10s.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_sim_shot_10s.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_3d_shot_4_15s.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_sim_shot_5_10s.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_3d_shot_5_10s.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_fight_prefix.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_screen_through.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_scene_sim.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_asset_3d.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_asset_sim.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_asset_3d_final.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_role_2d.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_three_view_wide.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_three_view_apose.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_veo_host.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/manju_workflow.txt",
+      "hash_valid": true,
+      "public_copy_valid": true
+    },
+    {
+      "path": "assets/b/runtime-4d70be9653.zip",
+      "hash_valid": true,
+      "public_copy_valid": true
+    }
+  ],
+  "channel_records": 83,
+  "unique_channels": 65,
+  "direct_candidates": 20,
+  "direct_passed": 0,
+  "dynamic_records_not_runtime_verified": [
+    {
+      "name": "CCTV1",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV2",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV3",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV4",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV5",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV6",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV7",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV8",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV9",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV10",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV11",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV12",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV13",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV14",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV15",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV16-HD",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV16(4K）",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV5+",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV17",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV4K",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV8K",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CGTN",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CGTN法语频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CGTN俄语频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CGTN阿拉伯语频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CGTN西班牙语频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CGTN外语纪录频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV风云剧场频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV第一剧场频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "CCTV怀旧剧场频道",
+      "group": "央视频央视及特色",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "北京卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "江苏卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "东方卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "浙江卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "湖南卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "湖北卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "广东卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "广西卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "黑龙江卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "海南卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "重庆卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "深圳卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "四川卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "河南卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "福建东南卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "贵州卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "江西卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "辽宁卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "安徽卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "河北卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "山东卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "天津卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "吉林卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "陕西卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "甘肃卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "宁夏卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "内蒙古卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "云南卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "山西卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "青海卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "西藏卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "中国教育电视台1频道",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    },
+    {
+      "name": "新疆卫视",
+      "group": "卫视及教育",
+      "reason": "Plugin uses Android/native runtime and dynamic resolution"
+    }
+  ],
+  "usable_additions": [
+    {
+      "name": "CCTV-1 综合",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-2 财经",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": false
+        }
+      ]
+    },
+    {
+      "name": "CCTV-3 综艺",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-4 中文国际（亚）",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 122,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": false
+        }
+      ]
+    },
+    {
+      "name": "CCTV-5 体育",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "HTTP error"
+          ],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "HTTP error",
+            "Invalid data found when processing input"
+          ],
+          "timeout": false
+        }
+      ]
+    },
+    {
+      "name": "CCTV-6 电影",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-7 国防军事",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 122,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": false
+        }
+      ]
+    },
+    {
+      "name": "CCTV-8 电视剧",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-9 纪录",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-10 科教",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 122,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": false
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-11 戏曲",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-12 社会与法",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-13 新闻",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-14 少儿",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-15 音乐",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": false
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-16 奥林匹克",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "HTTP error",
+            "Invalid data found when processing input"
+          ],
+          "timeout": false
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "HTTP error"
+          ],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-17 农业农村",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "HTTP error",
+            "Server returned 403"
+          ],
+          "timeout": false
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [
+            "HTTP error",
+            "Server returned 403"
+          ],
+          "timeout": false
+        }
+      ]
+    },
+    {
+      "name": "CCTV-4 中文国际（欧）",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 122,
+          "error_types": [
+            "error while decoding"
+          ],
+          "timeout": false
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 122,
+          "error_types": [
+            "Packet corrupt",
+            "error while decoding"
+          ],
+          "timeout": false
+        }
+      ]
+    },
+    {
+      "name": "CCTV-4 中文国际（美）",
+      "passed": false,
+      "checks": [
+        {
+          "attempt": 1,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        },
+        {
+          "attempt": 2,
+          "passed": false,
+          "frames": 0,
+          "error_types": [],
+          "timeout": true
+        }
+      ]
+    }
+  ],
+  "android_client_verified": false,
+  "spider_and_tv_class_url_scan_completed": true
+}

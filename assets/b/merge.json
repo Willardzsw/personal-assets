@@ -1,94 +1,15 @@
 {
-  "checked_at": "2026-09-21T09:49:55.904054+00:00",
+  "checked_at": "2026-09-21T12:21:08.050769+00:00",
   "base_profile": "config.json",
   "base_sha256": "1bd3e187485d7ac29b0e1103c632d1ec627c9e2b911cbfcfb151235da55fff0a",
-  "scope": "Merge first profile with second profile television addresses that decoded a video frame. Tool and game entries excluded. Dynamic-only channels not verified.",
+  "scope": "Current first profile plus confirmed direct additions from original second profile. All 22 original entries checked for class/dependency integrity; plugin runtime and 63 dynamic channel records remain unverified without Android.",
   "candidate_count": 20,
-  "retained_count": 12,
+  "retained_count": 0,
+  "sample_target_seconds": 5,
   "continuous_playback_verified": false,
-  "channels": [
-    {
-      "name": "CCTV-1 综合",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-2 财经",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-3 综艺",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-4 中文国际（亚）",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-5 体育",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-6 电影",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-7 国防军事",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-8 电视剧",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-9 纪录",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-10 科教",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-11 戏曲",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-12 社会与法",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-13 新闻",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-14 少儿",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-15 音乐",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-16 奥林匹克",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-17 农业农村",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-5+ 体育赛事",
-      "frame_decoded": false
-    },
-    {
-      "name": "CCTV-4 中文国际（欧）",
-      "frame_decoded": true
-    },
-    {
-      "name": "CCTV-4 中文国际（美）",
-      "frame_decoded": true
-    }
-  ],
-  "file": "assets/b/channels.m3u",
-  "file_sha256": "a617a30cfc384701a0bef2be76be5ed2b68426f71e7137145eafc86b71b0765f",
-  "first_profile_unchanged": true
+  "android_client_verified": false,
+  "file": null,
+  "file_sha256": null,
+  "first_profile_unchanged": true,
+  "full_audit": "assets/b/audit.json"
 }
