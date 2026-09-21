@@ -1,0 +1,105 @@
+{
+  "checked_at": "2026-09-21T10:34:55.653422+00:00",
+  "method": "FFmpeg audio/video decoding with five-second target; at least 25 video frames, successful completion, no detected corruption/truncation/network error; failures retested",
+  "total_unique": 2394,
+  "passed_unique": 1987,
+  "removed_unique": 407,
+  "client_playback_verified": false,
+  "continuous_playback_verified": false,
+  "failure_categories": {
+    "truncated_stream": 40,
+    "decoder_error": 128,
+    "invalid_container": 87,
+    "network_error": 16,
+    "incomplete_decode": 100,
+    "timeout": 134,
+    "corrupt_packet": 20
+  },
+  "lists": [
+    {
+      "name": "自选 · IPv4频道",
+      "path": "vendor/one/lib/ipv4.m3u",
+      "before_entries": 174,
+      "retained_entries": 110,
+      "retained_records": 110,
+      "removed_records": 64
+    },
+    {
+      "name": "自选 · 综合频道",
+      "path": "vendor/one/lib/lvse.txt",
+      "before_entries": 449,
+      "retained_entries": 379,
+      "retained_records": 380,
+      "removed_records": 71
+    },
+    {
+      "name": "migu(优)",
+      "path": "vendor/external/7cf5f79339b0/interfaceTXT.txt",
+      "before_entries": 73,
+      "retained_entries": 43,
+      "retained_records": 43,
+      "removed_records": 30
+    },
+    {
+      "name": "migu720",
+      "path": "vendor/external/2615dcf76d09/LiTV.m3u",
+      "before_entries": 514,
+      "retained_entries": 383,
+      "retained_records": 383,
+      "removed_records": 132
+    },
+    {
+      "name": "iTV",
+      "path": "vendor/external/92e9fde3dde9/Internet_iTV.m3u",
+      "before_entries": 701,
+      "retained_entries": 469,
+      "retained_records": 472,
+      "removed_records": 237
+    },
+    {
+      "name": "ZBDS",
+      "path": "vendor/external/4a83ea463e6a/iptv4.txt",
+      "before_entries": 579,
+      "retained_entries": 403,
+      "retained_records": 406,
+      "removed_records": 179
+    },
+    {
+      "name": "D佬直播",
+      "path": "vendor/external/c0d0d9cf2328/gggg.nzk.txt",
+      "before_entries": 912,
+      "retained_entries": 886,
+      "retained_records": 886,
+      "removed_records": 26
+    },
+    {
+      "name": "范明明(IPV6)",
+      "path": "vendor/external/7d6a4531644c/ipv6.m3u",
+      "before_entries": 12,
+      "retained_entries": 12,
+      "retained_records": 12,
+      "removed_records": 0
+    },
+    {
+      "name": "简单TV",
+      "path": "vendor/external/c5edfeb6a943/tv.txt",
+      "before_entries": 47,
+      "retained_entries": 45,
+      "retained_records": 45,
+      "removed_records": 2
+    }
+  ],
+  "modified": [
+    "vendor/one/lib/ipv4.m3u",
+    "vendor/one/lib/lvse.txt",
+    "vendor/external/7cf5f79339b0/interfaceTXT.txt",
+    "vendor/external/2615dcf76d09/LiTV.m3u",
+    "vendor/external/92e9fde3dde9/Internet_iTV.m3u",
+    "vendor/external/4a83ea463e6a/iptv4.txt",
+    "vendor/external/c0d0d9cf2328/gggg.nzk.txt",
+    "vendor/external/c5edfeb6a943/tv.txt",
+    "sources.json",
+    "assets/a/index.json"
+  ],
+  "deleted": []
+}

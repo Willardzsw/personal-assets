@@ -7,18 +7,18 @@
   "unique_addresses": 8665,
   "unique_status": {
     "unverified": 314,
-    "passed": 2394,
-    "failed": 5957
+    "passed": 1987,
+    "failed": 6364
   },
   "lists": [
     {
       "name": "自选 · IPv4频道",
       "original_entries": 1013,
-      "retained_entries": 174,
+      "retained_entries": 110,
       "original_lines": 1013,
       "line_status": {
-        "failed": 800,
-        "passed": 174,
+        "failed": 864,
+        "passed": 110,
         "unverified": 39
       },
       "path": "vendor/one/lib/ipv4.m3u"
@@ -36,11 +36,11 @@
     {
       "name": "自选 · 综合频道",
       "original_entries": 2256,
-      "retained_entries": 449,
+      "retained_entries": 379,
       "original_lines": 2264,
       "line_status": {
-        "failed": 1805,
-        "passed": 451,
+        "failed": 1876,
+        "passed": 380,
         "unverified": 8
       },
       "path": "vendor/one/lib/lvse.txt"
@@ -48,22 +48,22 @@
     {
       "name": "migu(优)",
       "original_entries": 319,
-      "retained_entries": 73,
+      "retained_entries": 43,
       "original_lines": 319,
       "line_status": {
-        "failed": 246,
-        "passed": 73
+        "failed": 276,
+        "passed": 43
       },
       "path": "vendor/external/7cf5f79339b0/interfaceTXT.txt"
     },
     {
       "name": "migu720",
       "original_entries": 635,
-      "retained_entries": 514,
+      "retained_entries": 383,
       "original_lines": 637,
       "line_status": {
-        "passed": 515,
-        "failed": 96,
+        "passed": 383,
+        "failed": 228,
         "unverified": 26
       },
       "path": "vendor/external/2615dcf76d09/LiTV.m3u"
@@ -71,11 +71,11 @@
     {
       "name": "iTV",
       "original_entries": 3056,
-      "retained_entries": 701,
+      "retained_entries": 469,
       "original_lines": 3089,
       "line_status": {
-        "passed": 709,
-        "failed": 2361,
+        "passed": 472,
+        "failed": 2598,
         "unverified": 19
       },
       "path": "vendor/external/92e9fde3dde9/Internet_iTV.m3u"
@@ -83,11 +83,11 @@
     {
       "name": "ZBDS",
       "original_entries": 666,
-      "retained_entries": 579,
+      "retained_entries": 403,
       "original_lines": 674,
       "line_status": {
-        "passed": 585,
-        "failed": 68,
+        "passed": 406,
+        "failed": 247,
         "unverified": 21
       },
       "path": "vendor/external/4a83ea463e6a/iptv4.txt"
@@ -95,12 +95,12 @@
     {
       "name": "D佬直播",
       "original_entries": 1572,
-      "retained_entries": 912,
+      "retained_entries": 886,
       "original_lines": 1572,
       "line_status": {
-        "passed": 912,
+        "passed": 886,
         "unverified": 192,
-        "failed": 468
+        "failed": 494
       },
       "path": "vendor/external/c0d0d9cf2328/gggg.nzk.txt"
     },
@@ -119,11 +119,11 @@
     {
       "name": "简单TV",
       "original_entries": 72,
-      "retained_entries": 47,
+      "retained_entries": 45,
       "original_lines": 72,
       "line_status": {
-        "passed": 47,
-        "failed": 25
+        "passed": 45,
+        "failed": 27
       },
       "path": "vendor/external/c5edfeb6a943/tv.txt"
     }
@@ -131,38 +131,38 @@
   "files": [
     {
       "path": "vendor/one/lib/ipv4.m3u",
-      "sha256": "84c53295dc55382f8d07ae8004b94ec84fdbd94adf11e1716d1c99b0dd52ef5b",
-      "bytes": 38640
+      "sha256": "880d97db069529396b292b15f4f21216b1899833200ee80d0c3d0c2aab9508bc",
+      "bytes": 26475
     },
     {
       "path": "vendor/one/lib/lvse.txt",
-      "sha256": "4f350d1b7c0f83f8456f09fa2bc037de99e52d2d2920fe7847db0fd3058c748b",
-      "bytes": 48370
+      "sha256": "26a3be8fbebd47f2ebeadcb1934d88788622527a1a62fdc579488aa96e28233c",
+      "bytes": 43222
     },
     {
       "path": "vendor/external/7cf5f79339b0/interfaceTXT.txt",
-      "sha256": "55a16650b983d72788e4ab8ca447c8027b6c3c63b0997228c261616bf4d091fc",
-      "bytes": 6062
+      "sha256": "34d3ce272abb411b7141b31503c3ef07c4f577edbddf014d69a6c09d5201a399",
+      "bytes": 3967
     },
     {
       "path": "vendor/external/2615dcf76d09/LiTV.m3u",
-      "sha256": "991edcc7776f3e751b783be6b1fdf53975c090244bdf786e209b0512a2498e54",
-      "bytes": 105936
+      "sha256": "b22868cbb64325122a47aad286e2ad0499529d4dd5ab9e9d3103fee170138fa3",
+      "bytes": 78872
     },
     {
       "path": "vendor/external/92e9fde3dde9/Internet_iTV.m3u",
-      "sha256": "6aa603fbe5458a2d049d2cbff3eb32fdd0a4f3e324b832f0f408dc78dcc8adba",
-      "bytes": 145388
+      "sha256": "88f2395c6b6c72e7978edbad3e6aa9b0781e71336f5381badb0abd72c0145023",
+      "bytes": 95642
     },
     {
       "path": "vendor/external/4a83ea463e6a/iptv4.txt",
-      "sha256": "5de26fea5317b918803a01137b2baccd0af5383ca32c70ec8875629dd6db4887",
-      "bytes": 49479
+      "sha256": "249b0a162abc2c4856a990fd1f1e37ba322890ede2af913cf797ed897cc4a0a6",
+      "bytes": 33270
     },
     {
       "path": "vendor/external/c0d0d9cf2328/gggg.nzk.txt",
-      "sha256": "90e5809eceb4649688b1fb66276c196c2b827d2f0a57f318a123c2bebade5e37",
-      "bytes": 73800
+      "sha256": "df822e9114f2b2cdf7ef36c8a32fb5c2905f506148411830907975751dffcf74",
+      "bytes": 73233
     },
     {
       "path": "vendor/external/7d6a4531644c/ipv6.m3u",
@@ -171,8 +171,8 @@
     },
     {
       "path": "vendor/external/c5edfeb6a943/tv.txt",
-      "sha256": "26e875d8effe22e997b6de9b015f918dd694758a0bf477d927b142107f99b67a",
-      "bytes": 2566
+      "sha256": "a4444d4842276100fcc660983e3cf7c4c7babd7386bae3600b95fcbfd3b1f73f",
+      "bytes": 2509
     }
   ],
   "deleted": [
@@ -184,5 +184,6 @@
       "reason": "User reported container parsing error; two probes showed truncated/corrupt MPEG-TS and decoder errors. Removed matching address from all three lists.",
       "removed_records": 3
     }
-  ]
+  ],
+  "decode_recheck": "assets/a/decode.json"
 }

@@ -48,5 +48,3 @@ CCTV17農業農村,http://74.91.26.218:82/live/cctv17hd.m3u8
 民視,http://74.91.26.218:82/live/ftv.m3u8
 民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
 民視第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-TVBS新聞台,http://74.91.26.218:82/live/tvbsxw.m3u8
-博斯高球1,http://74.91.26.218:82/live/bsgq1.m3u8
