@@ -1,7 +1,7 @@
 """Offline validation only; does not execute vendor code."""
 import hashlib,json,pathlib,re,sys,urllib.parse,zipfile,struct
 ROOT=pathlib.Path(__file__).resolve().parent.parent
-BASE='https://raw.githubusercontent.com/Willardzsw/TVBOX/main/'
+BASE='https://raw.githubusercontent.com/Willardzsw/personal-assets/main/'
 errors=[]
 manifest=json.loads((ROOT/'sources.json').read_text(encoding='utf8'))
 config=json.loads((ROOT/'config.json').read_text(encoding='utf8'))

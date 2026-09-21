@@ -6,7 +6,7 @@
 
 ## 新增
 
-- config.json：引用本仓库依赖的 OK影视主配置。
+- config.json：引用本仓库依赖的 入口配置。
 - sources.json：依赖文件来源、大小和 SHA-256 校验清单。
 - MIGRATION.md：无法获取及 JAR 内部仍存在的第三方引用。
 - tools/verify.py：离线完整性、路径和凭据特征检查；不执行上游代码。
@@ -93,3 +93,11 @@
 无。
 
 本地下载缓存和原始分析材料不在公开仓库内。
+
+## 命名调整
+
+- README.md：改用中性标题和说明。
+- config.json、tools/verify.py 及资源内的自有地址：同步新仓库路径。
+- sources.json：更新修改过的资源校验值。
+- CHANGES.md：记录此次改名。
+- 未删除资源文件。

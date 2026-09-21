@@ -1,68 +1,68 @@
 {
-  "spider": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/93fd4f873c3a/56d0b667615145949789418bff9f22a5.png.jar",
-  "logo": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1d13e46a6f76/69e0b8deadf7f_1776335070.gif",
+  "spider": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/93fd4f873c3a/56d0b667615145949789418bff9f22a5.png.jar",
+  "logo": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1d13e46a6f76/69e0b8deadf7f_1776335070.gif",
   "lives": [
     {
       "name": "自选 · IPv4频道",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/lib/ipv4.m3u"
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/lib/ipv4.m3u"
     },
     {
       "name": "自选 · ITV多线路",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/js/ITV.txt"
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/js/ITV.txt"
     },
     {
       "name": "自选 · 综合频道",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/lib/lvse.txt"
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/lib/lvse.txt"
     },
     {
       "name": "migu(优)",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/7cf5f79339b0/interfaceTXT.txt",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/7cf5f79339b0/interfaceTXT.txt",
       "timeout": 10,
       "playerType": 2
     },
     {
       "name": "migu720",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/2615dcf76d09/LiTV.m3u",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/2615dcf76d09/LiTV.m3u",
       "playerType": 2,
       "timeout": 10
     },
     {
       "name": "iTV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/92e9fde3dde9/Internet_iTV.m3u",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/92e9fde3dde9/Internet_iTV.m3u",
       "playerType": 2,
       "timeout": 10
     },
     {
       "name": "ZBDS",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/4a83ea463e6a/iptv4.txt",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/4a83ea463e6a/iptv4.txt",
       "timeout": 10,
       "playerType": 2
     },
     {
       "name": "D佬直播",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/c0d0d9cf2328/gggg.nzk.txt",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/c0d0d9cf2328/gggg.nzk.txt",
       "timeout": 10,
       "playerType": 2
     },
     {
       "name": "范明明(IPV6)",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/7d6a4531644c/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/7d6a4531644c/ipv6.m3u",
       "playerType": 2,
       "timeout": 10
     },
     {
       "name": "简单TV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/c5edfeb6a943/tv.txt",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/c5edfeb6a943/tv.txt",
       "timeout": 10,
       "playerType": 2
     }
@@ -76,7 +76,7 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/douban.json"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/douban.json"
     },
     {
       "key": "网盘配置",
@@ -96,7 +96,7 @@
       "type": 3,
       "api": "csp_DanmakuSpider",
       "searchable": 1,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/ba201e511abd/a7d0606f7915430eb4482f63649d6ce2.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/ba201e511abd/a7d0606f7915430eb4482f63649d6ce2.png.jar",
       "ext": {
         "apiUrl": [
           "https://d.cjf.red/87654321|公益源",
@@ -117,7 +117,7 @@
       "name": "☄️┃小白┃弹幕",
       "type": 3,
       "api": "csp_SecureDanmu",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/6a51bfccf3fa/c540eb4719b24fb9bea28987527b5152.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/6a51bfccf3fa/c540eb4719b24fb9bea28987527b5152.png.jar",
       "index": 1,
       "ext": {
         "apiUrls": [
@@ -128,7 +128,7 @@
           "https://logvardanmu.konfan.cn/87654321|公益源4",
           "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源5"
         ],
-        "titleMappingsUrl": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1969a85d2d49/yins.json"
+        "titleMappingsUrl": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1969a85d2d49/yins.json"
       }
     },
     {
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
@@ -148,7 +148,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
@@ -222,7 +222,7 @@
       "key": "yunduo",
       "name": "☁️┃云朵┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/yunduo.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/yunduo.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -232,7 +232,7 @@
       "key": "大马猴",
       "name": "🐒┃马猴┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E9%A9%AC%E7%8C%B4.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E9%A9%AC%E7%8C%B4.py",
       "searchable": 1
     },
     {
@@ -240,21 +240,21 @@
       "name": "👽︎┃歪比┃巴卜",
       "type": 3,
       "playerType": 2,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/b3b3a3386055/yb.js"
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/b3b3a3386055/yb.js"
     },
     {
       "key": "养生堂",
       "name": "🚑️┃养生┃知识",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/XBPQ/%E5%85%BB%E7%94%9F%E5%A0%82.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/XBPQ/%E5%85%BB%E7%94%9F%E5%A0%82.json"
     },
     {
       "key": "央视PY",
       "name": "🍀┃央视┃栏目",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E5%A4%AE%E8%A7%86.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E5%A4%AE%E8%A7%86.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -265,7 +265,7 @@
       "key": "免扫4K",
       "name": "♻┃高清┃秒播",
       "type": 3,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/b1d8aea9361b/1fe667cd217a0c314b8ca59310dbf45d.jpg.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/b1d8aea9361b/1fe667cd217a0c314b8ca59310dbf45d.jpg.jar",
       "api": "csp_AppV6",
       "playerType": 2,
       "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
@@ -280,7 +280,7 @@
       "key": "戒",
       "name": "🐌┃视界┃秒播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/js/jys.js",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/js/jys.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -290,7 +290,7 @@
       "key": "大师兄",
       "name": "🐵┃师兄┃影视",
       "type": 3,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/b1d8aea9361b/1fe667cd217a0c314b8ca59310dbf45d.jpg.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/b1d8aea9361b/1fe667cd217a0c314b8ca59310dbf45d.jpg.jar",
       "api": "csp_AppV6",
       "playerType": 2,
       "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
@@ -299,7 +299,7 @@
       "key": "一个影视",
       "name": "🃏┃一哥┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/js/%E4%B8%80%E5%93%A5.js"
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/js/%E4%B8%80%E5%93%A5.js"
     },
     {
       "key": "橘皮",
@@ -307,7 +307,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
@@ -316,7 +316,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
@@ -332,14 +332,14 @@
         "ratio": 1.733
       },
       "ext": {
-        "json": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/video_data.json"
+        "json": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/video_data.json"
       }
     },
     {
       "key": "py_dsystv",
       "name": "🦘┃袋鼠┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/dsystv.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/dsystv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -349,7 +349,7 @@
       "key": "枫叶",
       "name": "🍁┃枫叶┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E6%9E%AB%E5%8F%B6.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E6%9E%AB%E5%8F%B6.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -360,21 +360,21 @@
       "key": "KK",
       "name": "👌┃欧克┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
       "searchable": 1
     },
     {
       "key": "WS",
       "name": "⚠️┃威视┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E5%A8%81%E8%A7%86TV.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E5%A8%81%E8%A7%86TV.py",
       "searchable": 1
     },
     {
       "key": "花树",
       "name": "🌳┃花树┃影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E5%8D%8E%E6%95%B0TV.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E5%8D%8E%E6%95%B0TV.py",
       "searchable": 1
     },
     {
@@ -382,7 +382,7 @@
       "name": "🧿┃农民┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
       "ext": {
         "副标题": "保护正版，人人有责",
         "请求头": "User-Agent$MOBILE_UA",
@@ -395,7 +395,7 @@
       "name": "🦊┃狐狸┃电影",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
       "ext": {
         "副标题": "保护正版，人人有责",
         "请求头": "User-Agent$MOBILE_UA",
@@ -410,7 +410,7 @@
     {
       "key": "荐片",
       "name": "⏳┃荐片┃P2P",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
       "api": "csp_JianPian",
       "type": 3
     },
@@ -437,22 +437,22 @@
       "name": "🌽┃韩剧┃看看",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/bc1f8e40b84a/d064709f380b4075ac3a4ec302d4244d.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/bc1f8e40b84a/d064709f380b4075ac3a4ec302d4244d.png.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/%E9%9F%A9%E5%89%A7%E7%9C%8B%E7%9C%8B.json"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/%E9%9F%A9%E5%89%A7%E7%9C%8B%E7%9C%8B.json"
     },
     {
       "key": "韩剧在线",
       "name": "🌽┃韩剧┃在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/bc1f8e40b84a/d064709f380b4075ac3a4ec302d4244d.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/bc1f8e40b84a/d064709f380b4075ac3a4ec302d4244d.png.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/%E9%9F%A9%E5%89%A7%E5%9C%A8%E7%BA%BF.json"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/%E9%9F%A9%E5%89%A7%E5%9C%A8%E7%BA%BF.json"
     },
     {
       "key": "永乐XBPQ",
@@ -462,7 +462,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -475,7 +475,7 @@
       "key": "七星",
       "name": "🌟┃七星┃短剧",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E4%B8%83%E6%98%9F.py",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E4%B8%83%E6%98%9F.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -498,7 +498,7 @@
       "key": "聚合短剧",
       "name": "✨┃聚合┃短剧",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/py/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.py"
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/py/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.py"
     },
     {
       "key": "csp_Bili",
@@ -508,8 +508,8 @@
       "filterable": 1,
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/bilijihe.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/bilijihe.json"
     },
     {
       "key": "wogg",
@@ -720,8 +720,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
     },
     {
       "key": "csp_XYQHiker_路漫漫",
@@ -731,8 +731,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/%E8%B7%AF%E6%BC%AB%E6%BC%AB.json",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/%E8%B7%AF%E6%BC%AB%E6%BC%AB.json",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
     },
     {
       "key": "csp_XYQHiker_番茶",
@@ -742,8 +742,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/%E7%95%AA%E8%8C%B6%E5%8A%A8%E6%BC%AB.json",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/%E7%95%AA%E8%8C%B6%E5%8A%A8%E6%BC%AB.json",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
     },
     {
       "key": "csp_XYQHiker_age动漫",
@@ -753,8 +753,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/age.json",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/age.json",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar"
     },
     {
       "key": "方舟动漫",
@@ -762,7 +762,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
       "ext": {
         "url": "https://www.cyfz.top",
         "dataKey": "e72cdfd629e8895d",
@@ -775,7 +775,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
       "ext": {
         "url": "https://app.omofun1.top",
         "dataKey": "66dc309cbeeca454",
@@ -788,7 +788,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
       "ext": {
         "url": "https://www.gugu3.com",
         "dataKey": "nKfZ8KX6JTNWRzTD",
@@ -799,7 +799,7 @@
       "key": "js_咖啡",
       "name": "🏆┃咖啡┃直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/js/%E5%92%96%E5%95%A1%E7%9B%B4%E6%92%AD.js",
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/js/%E5%92%96%E5%95%A1%E7%9B%B4%E6%92%AD.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -810,7 +810,7 @@
       "name": "🏆┃瓜子┃体育",
       "type": 3,
       "api": "csp_GuaziTY",
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/26c6cd5d3ed5/fm.png.jar",
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/26c6cd5d3ed5/fm.png.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -860,8 +860,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/aha.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/aha.json"
     },
     {
       "key": "酷狗音乐",
@@ -884,8 +884,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/biliyy.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/biliyy.json"
     },
     {
       "key": "csp_mtv",
@@ -895,8 +895,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/mtv.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/mtv.json"
     },
     {
       "key": "csp_bilirt",
@@ -906,8 +906,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/bilirt.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/bilirt.json"
     },
     {
       "key": "csp_bilims",
@@ -917,8 +917,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/bilims.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/bilims.json"
     },
     {
       "key": "哔哩健身",
@@ -928,8 +928,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/bili.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/bili.json"
     },
     {
       "key": "哔哩幼儿",
@@ -939,8 +939,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/yely.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/yely.json"
     },
     {
       "key": "哔哩少儿",
@@ -950,8 +950,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/sejy.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/sejy.json"
     },
     {
       "key": "哔哩小学",
@@ -961,8 +961,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/xxkt.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/xxkt.json"
     },
     {
       "key": "哔哩初中",
@@ -972,8 +972,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/czkt.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/czkt.json"
     },
     {
       "key": "哔哩高中",
@@ -983,8 +983,8 @@
       "filterable": 1,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
-      "ext": "https://raw.githubusercontent.com/Willardzsw/TVBOX/main/vendor/one/json/gzkt.json"
+      "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "ext": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/one/json/gzkt.json"
     },
     {
       "key": "Tgsou",

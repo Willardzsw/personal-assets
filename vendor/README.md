@@ -1,3 +1,1 @@
-# personal-assets
-
 blue dots and quiet clouds
