@@ -1,0 +1,438 @@
+{
+  "source_repository": "https://github.com/leevi0709/one",
+  "source_commit": "0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b",
+  "files": [
+    {
+      "path": "vendor/external/c5edfeb6a943/tv.txt",
+      "source": "http://iptv.ruyitv.cc/m3u/tv.txt",
+      "sha256": "dbbedd9d18afdcfca5127387661d8a62c2bf754f6d815342a75d113bba0c53da",
+      "bytes": 3916
+    },
+    {
+      "path": "vendor/external/7cf5f79339b0/interfaceTXT.txt",
+      "source": "http://migu.lengye.top/interfaceTXT.txt",
+      "sha256": "16f93c808ec2e2cd1861d879fe9300d7ce19198c6999a1bdcbeabaa8f0262ce9",
+      "bytes": 32380
+    },
+    {
+      "path": "vendor/external/c0d0d9cf2328/gggg.nzk.txt",
+      "source": "http://rihou.cc:555/gggg.nzk",
+      "sha256": "e0621e6890a0155d88bac0b03d0645bcec1868a5808626e680b319831a4250d9",
+      "bytes": 119416
+    },
+    {
+      "path": "vendor/external/26c6cd5d3ed5/fm.png.jar",
+      "source": "https://gitee.com/kevin0973/lc/raw/master/lib/fm.png",
+      "sha256": "e7b4dbaf6e2a440daa0c62b542eaa619897a87895407621328784a74f3fbbf11",
+      "bytes": 845136
+    },
+    {
+      "path": "vendor/external/1d13e46a6f76/69e0b8deadf7f_1776335070.gif",
+      "source": "https://img.cdn1.vip/i/69e0b8deadf7f_1776335070.gif",
+      "sha256": "a9313282d46119587ffed2882d8faaf74f3c5b3260161926ae33d26872d7232b",
+      "bytes": 95141
+    },
+    {
+      "path": "vendor/external/7d6a4531644c/ipv6.m3u",
+      "source": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "sha256": "935849a6e2f083884a450510c6c000ee4535fc139f0fca168f51dcfcbfce44f8",
+      "bytes": 25215
+    },
+    {
+      "path": "vendor/external/4a83ea463e6a/iptv4.txt",
+      "source": "https://live.zbds.top/tv/iptv4.txt",
+      "sha256": "4c2051d729c52669485355e5156047d871077aaec25157386fa35d291e3d32b1",
+      "bytes": 55224
+    },
+    {
+      "path": "vendor/external/b1d8aea9361b/1fe667cd217a0c314b8ca59310dbf45d.jpg.jar",
+      "source": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg",
+      "sha256": "d39eeb99a5f2ac49d29eb28221185a997df5f80f6bc093f8558f0500a7a4d699",
+      "bytes": 876820
+    },
+    {
+      "path": "vendor/external/efc0ae7f021e/bff9d4583388a55afb15a8e3c509af9b.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png",
+      "sha256": "4c8375db7eaf455db762a4e6420a142d30a04c33ede65810f3d9d5c94b7553f1",
+      "bytes": 377682
+    },
+    {
+      "path": "vendor/external/f63740a048dd/9c6f4eee384d4e9184f7a751c4d10b16.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png",
+      "sha256": "975af0a79ca88c32ad3eb5ccff5383ef2fd327c784f82917931f657fb1291c0c",
+      "bytes": 1630474
+    },
+    {
+      "path": "vendor/external/77e9ddfe6b7c/1d9136626610437ab0cac0dbe262d1ed.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0418/17/1d9136626610437ab0cac0dbe262d1ed.png",
+      "sha256": "9a742d08c655879c6173d68e29c73d2979e685100a95115497209cc61e81cbad",
+      "bytes": 435070
+    },
+    {
+      "path": "vendor/external/bc1f8e40b84a/d064709f380b4075ac3a4ec302d4244d.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0501/23/d064709f380b4075ac3a4ec302d4244d.png",
+      "sha256": "7b732f2289236619b791d9c5a0d862d42c9bf3e5bb6123a6982736329bbe9e16",
+      "bytes": 635660
+    },
+    {
+      "path": "vendor/external/93fd4f873c3a/56d0b667615145949789418bff9f22a5.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png",
+      "sha256": "767edff08eb9cd63c69e3a82059cd5b4cbed082d5aa377370c9f857fe00de6dd",
+      "bytes": 901390
+    },
+    {
+      "path": "vendor/external/1ee02d7eb2a5/4f195a9210254fbbb6ade0cb28fd8e17.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0604/20/4f195a9210254fbbb6ade0cb28fd8e17.png",
+      "sha256": "d90ec08e21608077590d19be010804714b5ce1aebadce5a433afe7b677eff275",
+      "bytes": 254287
+    },
+    {
+      "path": "vendor/external/ba201e511abd/a7d0606f7915430eb4482f63649d6ce2.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0720/17/a7d0606f7915430eb4482f63649d6ce2.png",
+      "sha256": "530ad9c5ea928deab7ea780975e3c5cdc0011bfe3c7786969e0cf3f5ab27ca93",
+      "bytes": 204299
+    },
+    {
+      "path": "vendor/external/6a51bfccf3fa/c540eb4719b24fb9bea28987527b5152.png.jar",
+      "source": "https://ncstatic.clewm.net/rsrc/2026/0807/12/c540eb4719b24fb9bea28987527b5152.png",
+      "sha256": "a63da30a4db9a47fe701cf8e9e8d3749df3bea4db2b7e1890423b2c338d141b5",
+      "bytes": 664223
+    },
+    {
+      "path": "vendor/external/b3b3a3386055/yb.js",
+      "source": "https://raw.githubusercontent.com/IY-CPU/IY/main/lib/yb.js",
+      "sha256": "df2f616f716687069f91ab5aa92e1b9fbd5ed69d4ae85e39da69bc1f6b59760d",
+      "bytes": 22128
+    },
+    {
+      "path": "vendor/external/1969a85d2d49/yins.json",
+      "source": "https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
+      "sha256": "b879331d847d68f38ae6c7d42fcb18711ec5eccf6a717a336e0ed9d6536e9b86",
+      "bytes": 1185
+    },
+    {
+      "path": "vendor/external/92e9fde3dde9/Internet_iTV.m3u",
+      "source": "https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/Internet_iTV.m3u",
+      "sha256": "6bceac3a8760b7e60a0a84f6f74c02a9bda7f9b1bd36480dd8ccb2a48864e902",
+      "bytes": 782217
+    },
+    {
+      "path": "vendor/external/2615dcf76d09/LiTV.m3u",
+      "source": "https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/LiTV.m3u",
+      "sha256": "0dc60e3d4b5e67326cb719479267e66c0d5706cc5cc4955c93515d697cdc7507",
+      "bytes": 126917
+    },
+    {
+      "path": "vendor/one/XBPQ/养生堂.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/XBPQ/%E5%85%BB%E7%94%9F%E5%A0%82.json",
+      "sha256": "62eb29632fc5fc0ea11bcbbe02a5f3c53a80b4f3f833a3df796cc6b718b42442",
+      "bytes": 1212
+    },
+    {
+      "path": "vendor/one/js/一哥.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/%E4%B8%80%E5%93%A5.js",
+      "sha256": "2c5bd4521c3678f77ef4b7101fb21db03ec436a93d545ffc8e4764dd42b914d5",
+      "bytes": 28577
+    },
+    {
+      "path": "vendor/one/js/咖啡直播.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/%E5%92%96%E5%95%A1%E7%9B%B4%E6%92%AD.js",
+      "sha256": "b717c1de85ae64b73dc6a8e2aed0d8e180def1562173c40fe72c26cd88798aa6",
+      "bytes": 11336
+    },
+    {
+      "path": "vendor/one/js/ITV.txt",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/ITV.txt",
+      "sha256": "0419f5f0180ef2c93cb118c5dd5036b3eaa194bf1e86e1c9e8706126655044f2",
+      "bytes": 84558
+    },
+    {
+      "path": "vendor/one/js/jys.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/jys.js",
+      "sha256": "f0e3af420cb9f51e44651549b9db8f3f9f724963f4d18dbb89a01287685d5dd0",
+      "bytes": 7408
+    },
+    {
+      "path": "vendor/one/json/动漫巴士.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json",
+      "sha256": "2db56f146601d6ad2fed385c535188115fdbbf46e0a41948732acc731699e9ab",
+      "bytes": 3163
+    },
+    {
+      "path": "vendor/one/json/番茶动漫.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/%E7%95%AA%E8%8C%B6%E5%8A%A8%E6%BC%AB.json",
+      "sha256": "6aad9266921c9da648cbe71f10355829266261b340f13f865c9e646f0027e654",
+      "bytes": 3625
+    },
+    {
+      "path": "vendor/one/json/路漫漫.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/%E8%B7%AF%E6%BC%AB%E6%BC%AB.json",
+      "sha256": "a5f0b0f1f9f67c5044cdbf71e05f444a58c107b36aab66bd210f354dd24d226b",
+      "bytes": 3472
+    },
+    {
+      "path": "vendor/one/json/韩剧在线.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/%E9%9F%A9%E5%89%A7%E5%9C%A8%E7%BA%BF.json",
+      "sha256": "a6f137dde4c7f6fc5c22c1ad809fd947e8677155b97b54a673ddf068d600b70f",
+      "bytes": 1749
+    },
+    {
+      "path": "vendor/one/json/韩剧看看.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/%E9%9F%A9%E5%89%A7%E7%9C%8B%E7%9C%8B.json",
+      "sha256": "75ba19754102e91ccd481a3ecb7fb1b178b16b9c1a0afacdc6f23b8e7e12033b",
+      "bytes": 1674
+    },
+    {
+      "path": "vendor/one/json/age.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/age.json",
+      "sha256": "a7acaef66da38f412ba3ab16c47b50acc2290d3efe0afcfd0bfe620456ba55a6",
+      "bytes": 3516
+    },
+    {
+      "path": "vendor/one/json/aha.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/aha.json",
+      "sha256": "75b7bab16db65eccd22b01a614b653af14562a1ecaf0efb8dd73be3ddeb190d9",
+      "bytes": 2739
+    },
+    {
+      "path": "vendor/one/json/bili.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/bili.json",
+      "sha256": "b28f1d8d51fe54dec06882bc7a646765ef65e54acc4fb4fb47449486ea98719e",
+      "bytes": 3403
+    },
+    {
+      "path": "vendor/one/json/bilijihe.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/bilijihe.json",
+      "sha256": "0876cd371e290c6bedc7d2e3b533a66aaa377e822a594bc1448bfa161ff123fd",
+      "bytes": 109482
+    },
+    {
+      "path": "vendor/one/json/bilims.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/bilims.json",
+      "sha256": "cf700e76cc91daca6dadc9c2adcf58359787289e311586f39632d405723656f5",
+      "bytes": 5602
+    },
+    {
+      "path": "vendor/one/json/bilirt.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/bilirt.json",
+      "sha256": "b088b1dc997fe8989946f08919887a3b221583f7e648f20ad023401bd3ac9f75",
+      "bytes": 15671
+    },
+    {
+      "path": "vendor/one/json/biliyy.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/biliyy.json",
+      "sha256": "51eea6503d0955424473234c2e5ee3f179f2cac3ea756e2dc516ea403d170a31",
+      "bytes": 16309
+    },
+    {
+      "path": "vendor/one/json/czkt.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/czkt.json",
+      "sha256": "77de274e19883d1face584ccd354029bf3febca7334cfc676087a03e67663b4e",
+      "bytes": 35575
+    },
+    {
+      "path": "vendor/one/json/douban.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/douban.json",
+      "sha256": "1a5059ceecee9c38a7ed04fc1ab31c01aebd206f828d8cbacdd3fc6f3bd3c204",
+      "bytes": 9121
+    },
+    {
+      "path": "vendor/one/json/gzkt.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/gzkt.json",
+      "sha256": "d074c268703cf5e06a33391a7fbdd81cc1ccfac606e8aef645e9a868fe235ebf",
+      "bytes": 46540
+    },
+    {
+      "path": "vendor/one/json/mtv.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/mtv.json",
+      "sha256": "3d6e5c069578dfef1093738ea5dab6761dafc2a07a5a6e82ca14bbf920a9aabb",
+      "bytes": 35484
+    },
+    {
+      "path": "vendor/one/json/sejy.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/sejy.json",
+      "sha256": "d3f621629aae0f6345c4c3d43882b2e021cefb63f08e4820e5c7c2331d0d6f38",
+      "bytes": 585
+    },
+    {
+      "path": "vendor/one/json/video_data.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/video_data.json",
+      "sha256": "623f50501b8c3fdb39c122abcf35cc24895d691943a148a5d81c6af802527552",
+      "bytes": 284215
+    },
+    {
+      "path": "vendor/one/json/xxkt.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/xxkt.json",
+      "sha256": "e8d9ba5b4a4918ca80701bf68d1fbf62035a65de4d16ef9b73bc33dff245241b",
+      "bytes": 30936
+    },
+    {
+      "path": "vendor/one/json/yely.json",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/json/yely.json",
+      "sha256": "45a55a89adc513283cde5055681ca4200c74abaac343abec622e0fc177735a35",
+      "bytes": 1456
+    },
+    {
+      "path": "vendor/one/lib/douyu.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/lib/douyu.js",
+      "sha256": "80f9e4d3fb3cff82ab274e66cbba2376e1a48c02d2675c62e98e6bc2813ce6a7",
+      "bytes": 32254
+    },
+    {
+      "path": "vendor/one/lib/huya.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/lib/huya.js",
+      "sha256": "4bb25ee567ef835795cb70710842e6d598bea41721a544b589886510ee247c53",
+      "bytes": 21388
+    },
+    {
+      "path": "vendor/one/lib/ipv4.m3u",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/lib/ipv4.m3u",
+      "sha256": "33a605cc8239913dca26b54457abe79ac72cf5a9c0b6043da052bfa272d209d1",
+      "bytes": 220193
+    },
+    {
+      "path": "vendor/one/lib/lvse.txt",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/lib/lvse.txt",
+      "sha256": "954fd1ea03aa536c40739a17222630363f32d8e27e7225c4d3460f1cc383afae",
+      "bytes": 199332
+    },
+    {
+      "path": "vendor/one/py/七星.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E4%B8%83%E6%98%9F.py",
+      "sha256": "2f27c8f1c02245b65e50fd43fb1255c2cbdcad5bf52eba2aa3642f5c194af87b",
+      "bytes": 10621
+    },
+    {
+      "path": "vendor/one/py/华数TV.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E5%8D%8E%E6%95%B0TV.py",
+      "sha256": "721b11692c6d0384a64207b61a79377572931fc4b0806eb44a27b79104048bf3",
+      "bytes": 27108
+    },
+    {
+      "path": "vendor/one/py/可可影视.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
+      "sha256": "e3090f35abed326e52b5609bc4751406623e8b6af554e6b1738330afeb381b6a",
+      "bytes": 15022
+    },
+    {
+      "path": "vendor/one/py/哇哇APP.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E5%93%87%E5%93%87APP.py",
+      "sha256": "e9aae03c51d452b2c0c2fc344bb5f37527a68e47b939cb8f19c15cd5244fbbee",
+      "bytes": 9527
+    },
+    {
+      "path": "vendor/one/py/央视.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E5%A4%AE%E8%A7%86.py",
+      "sha256": "4b36db867c2c548218ec6e105bfec3474350e0a7ac1e21affce715443a4fc554",
+      "bytes": 23773
+    },
+    {
+      "path": "vendor/one/py/威视TV.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E5%A8%81%E8%A7%86TV.py",
+      "sha256": "5a2880773d5f2b853bdb3324a553244597d173ee2daf70e346f42b48d5ce557d",
+      "bytes": 20509
+    },
+    {
+      "path": "vendor/one/py/枫叶.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E6%9E%AB%E5%8F%B6.py",
+      "sha256": "7c4852258e54b347dce8c4a4f1da90f1e776ba88a3e3daa5938535e99afd2c6b",
+      "bytes": 24441
+    },
+    {
+      "path": "vendor/one/py/短剧聚合.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.py",
+      "sha256": "68dd9cbf3bc75d2cc9a6301dde348de90054c3f82fd30f3967b69d0e3f96cdec",
+      "bytes": 38591
+    },
+    {
+      "path": "vendor/one/py/马猴.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/%E9%A9%AC%E7%8C%B4.py",
+      "sha256": "24de87010ea9c7798033ae59ac69567459ebd47d22349efc6cb3d5301f7f8e4a",
+      "bytes": 19785
+    },
+    {
+      "path": "vendor/one/py/dsystv.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/dsystv.py",
+      "sha256": "ee2387c3913e0bc57823bc66a730a7593fd2ddb29d0d0ae8d496d62f971fbd4e",
+      "bytes": 9806
+    },
+    {
+      "path": "vendor/one/py/yunduo.py",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/py/yunduo.py",
+      "sha256": "9c53977703e285c96deae93aa3a2d15856b8d839d98681b6d9cdeaf28458de76",
+      "bytes": 23212
+    },
+    {
+      "path": "vendor/external/70074563c3ab/version.txt",
+      "source": "http://www.fmys.top/go/version.txt",
+      "sha256": "52cebe7a4ad2b5e462c257d8f92deb4259832c2672044540060188fba604b064",
+      "bytes": 5
+    },
+    {
+      "path": "vendor/external/5988074c6e10/version.txt",
+      "source": "https://6446.kstore.vip/go/version.txt",
+      "sha256": "52cebe7a4ad2b5e462c257d8f92deb4259832c2672044540060188fba604b064",
+      "bytes": 5
+    },
+    {
+      "path": "vendor/external/965ccc2c89f6/version.txt",
+      "source": "https://gitee.com/fmysup/fmys/raw/master/go/version.txt",
+      "sha256": "52cebe7a4ad2b5e462c257d8f92deb4259832c2672044540060188fba604b064",
+      "bytes": 5
+    },
+    {
+      "path": "vendor/external/2c2d998fefa9/mobile.json",
+      "source": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile.json",
+      "sha256": "322cb002f2bf20d0caefe60948ef047db335b8ce449d12264f679f8269f4496d",
+      "bytes": 134
+    },
+    {
+      "path": "vendor/one/js/模板.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/%E6%A8%A1%E6%9D%BF.js",
+      "sha256": "096424a6c8c62b14831671dcfcb83e2cab73e03fce2fef41a87dacbded724567",
+      "bytes": 19802
+    },
+    {
+      "path": "vendor/one/js/gbk.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/gbk.js",
+      "sha256": "0a9df287a1631c0bbba8ada3bfc5799847f0c8fc959c448550849a8dc117e254",
+      "bytes": 56346
+    },
+    {
+      "path": "vendor/one/js/jinja.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/jinja.js",
+      "sha256": "574317474699e8b741b003451c13a3db7dbf615888f33b5f71a4d692a7c5a12f",
+      "bytes": 22500
+    },
+    {
+      "path": "vendor/one/js/jsencrypt.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/jsencrypt.js",
+      "sha256": "495b95942e08562fe7f973728375695a9b2806853b10f830d3cd71eb2988d4bd",
+      "bytes": 221343
+    },
+    {
+      "path": "vendor/one/js/json5.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/json5.js",
+      "sha256": "209dfbf012a2bd4363acf9bd68a567ab973671cc578b7c40f7b14032eb735dcb",
+      "bytes": 65933
+    },
+    {
+      "path": "vendor/one/js/node-rsa.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/node-rsa.js",
+      "sha256": "b9db08f097d003d3231beabb9007d02d2df559f360c9becfdad303d0834deda1",
+      "bytes": 335346
+    },
+    {
+      "path": "vendor/one/js/pako.min.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/pako.min.js",
+      "sha256": "803ed184e38c7795286c767fb5912c427abdc74f0b581780be7b54165c0eeefd",
+      "bytes": 81582
+    },
+    {
+      "path": "vendor/one/js/uri.min.js",
+      "source": "https://raw.githubusercontent.com/leevi0709/one/0b3e372b9cfb365a27e9a72fd53fccdf137b7b9b/js/uri.min.js",
+      "sha256": "8c6e2c0220eb2264b7d47f792c6ae89fce0a89fcc50cd8fe2decaaf0c3493ce7",
+      "bytes": 6011
+    }
+  ]
+}
