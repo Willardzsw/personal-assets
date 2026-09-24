@@ -2,19 +2,19 @@
   "files": [
     {
       "path": "profile-c.json",
-      "sha256": "eeed5cdf86d5ef46db1311c07c2f44aa95b8f10ddeb45a1c59d37248295d924d"
+      "sha256": "3134842ef0cd996757fc342656838187fcb7f5a217404af145ab78dc4b5ff62f"
     },
     {
       "path": "profiles.json",
-      "sha256": "de6adc608b023fb58a1a0260c53208a28f8111bd97944c8227ec8ec81bbc2c85"
+      "sha256": "b133d7e5ca548969a264f6882811543ce5213a06797736287db4e7f840d26f83"
     },
     {
       "path": "assets/c/channels.m3u",
-      "sha256": "b157e0d049fec2a9e9746d789903e1f685792ebf171b6e540355b6a1077e111a"
+      "sha256": "bb19898ae25ca4142a407b42325eab6702b63b5027fe9dbf3132ec16d9ea48df"
     },
     {
       "path": "assets/c/audit.json",
-      "sha256": "6882c9589f95dbed6feca898283fb9f8c2a0cf480ca0d0c3a93285312e85b82b"
+      "sha256": "0f28ab28742d1ed1e6bfb29a9e1027848b0da7bb9d139acce5003743898ead09"
     }
   ]
 }
