@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "原配置 A",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/config.json"
+    },
+    {
+      "name": "原配置 B",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/profile-b.json"
+    },
+    {
+      "name": "XJ · 验证配置 C",
+      "url": "https://raw.githubusercontent.com/Willardzsw/personal-assets/source/xiongjian83/profile-c.json"
+    }
+  ]
+}

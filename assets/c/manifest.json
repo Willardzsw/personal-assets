@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "path": "profile-c.json",
+      "sha256": "eeed5cdf86d5ef46db1311c07c2f44aa95b8f10ddeb45a1c59d37248295d924d"
+    },
+    {
+      "path": "profiles.json",
+      "sha256": "de6adc608b023fb58a1a0260c53208a28f8111bd97944c8227ec8ec81bbc2c85"
+    },
+    {
+      "path": "assets/c/channels.m3u",
+      "sha256": "b157e0d049fec2a9e9746d789903e1f685792ebf171b6e540355b6a1077e111a"
+    },
+    {
+      "path": "assets/c/audit.json",
+      "sha256": "6882c9589f95dbed6feca898283fb9f8c2a0cf480ca0d0c3a93285312e85b82b"
+    }
+  ]
+}

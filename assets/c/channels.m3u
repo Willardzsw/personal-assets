@@ -1,0 +1,469 @@
+#EXTM3U
+#EXTINF:-1 group-title="［港澳台］",有線新聞
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="电影频道",句容影视
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 group-title="IPV6线路2",4K超高清电影.1080P
+http://r.jdshipin.com/5DWJk
+#EXTINF:-1 group-title="江苏频道",徐州公共频道
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道",镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="江苏频道",句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+#EXTINF:-1 group-title="江苏频道",武进新闻频道
+https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+#EXTINF:-1 group-title="江苏频道",句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="江苏频道",句容生活频道
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="浙江频道",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="浙江频道",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="体育频道",MBC体育
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 group-title="虎牙-精选",电影_星爷
+https://live.metshop.top/huya/11342412
+#EXTINF:-1 group-title="虎牙-精选",电影_英叔
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 group-title="虎牙-精选",电影_发哥
+https://live.metshop.top/huya/11342387
+#EXTINF:-1 group-title="虎牙-精选",电影_成龙
+https://live.metshop.top/huya/11342386
+#EXTINF:-1 group-title="虎牙-精选",电影_王晶
+https://live.metshop.top/huya/11602058
+#EXTINF:-1 group-title="虎牙-精选",电影_沈腾
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 group-title="虎牙-精选",电影_黄渤
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 group-title="虎牙-精选",电影_强森
+https://live.metshop.top/huya/21059581
+#EXTINF:-1 group-title="虎牙-精选",电影_漫威
+https://live.metshop.top/huya/11602034
+#EXTINF:-1 group-title="虎牙-精选",电影_宇宙
+https://live.metshop.top/huya/11342428
+#EXTINF:-1 group-title="虎牙-精选",电影_怪兽
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 group-title="虎牙-精选",电影_武侠
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 group-title="虎牙-精选",电影_警匪
+https://live.metshop.top/huya/11352886
+#EXTINF:-1 group-title="虎牙-精选",电影_罪犯
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 group-title="虎牙-精选",电影_枪战
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 group-title="虎牙-精选",电影_海盗
+https://live.metshop.top/huya/21059595
+#EXTINF:-1 group-title="虎牙-精选",电影_赛车
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 group-title="虎牙-精选",电影_推荐
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 group-title="虎牙-精选",电影_救援
+https://live.metshop.top/huya/21059594
+#EXTINF:-1 group-title="虎牙-精选",电影_热血
+https://live.metshop.top/huya/11352934
+#EXTINF:-1 group-title="虎牙-精选",电影_盗墓
+https://live.metshop.top/huya/21059552
+#EXTINF:-1 group-title="虎牙-精选",电影_贺岁
+https://live.metshop.top/huya/11601971
+#EXTINF:-1 group-title="虎牙-精选",电影_玄幻
+https://live.metshop.top/huya/11342414
+#EXTINF:-1 group-title="虎牙-精选",电影_谍战
+https://live.metshop.top/huya/21059585
+#EXTINF:-1 group-title="虎牙-精选",电影_战争
+https://live.metshop.top/huya/21059592
+#EXTINF:-1 group-title="虎牙-精选",电影_喜剧
+https://live.metshop.top/huya/11352877
+#EXTINF:-1 group-title="虎牙-精选",电影_港片
+https://live.metshop.top/huya/11602043
+#EXTINF:-1 group-title="虎牙-精选",电影_国产
+https://live.metshop.top/huya/11352973
+#EXTINF:-1 group-title="虎牙-精选",电影_周星星
+https://live.metshop.top/huya/11336587
+#EXTINF:-1 group-title="虎牙-精选",电影_李连杰
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 group-title="虎牙-精选",电影_洪金宝
+https://live.metshop.top/huya/11279251
+#EXTINF:-1 group-title="虎牙-精选",电影_梁家辉
+https://live.metshop.top/huya/11342429
+#EXTINF:-1 group-title="虎牙-精选",电影_许冠英
+https://live.metshop.top/huya/11601972
+#EXTINF:-1 group-title="虎牙-精选",电影_刘德华
+https://live.metshop.top/huya/11342424
+#EXTINF:-1 group-title="虎牙-精选",电影_斯坦森
+https://live.metshop.top/huya/21059588
+#EXTINF:-1 group-title="虎牙-精选",电影_小鬼头
+https://live.metshop.top/huya/11352963
+#EXTINF:-1 group-title="虎牙-精选",电影_八点档
+https://live.metshop.top/huya/880261
+#EXTINF:-1 group-title="虎牙-精选",电影_蜘蛛侠
+https://live.metshop.top/huya/21059599
+#EXTINF:-1 group-title="虎牙-精选",电影_贺岁片
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 group-title="虎牙-精选",电影_功夫片
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 group-title="虎牙-精选",电影_黑帮片
+https://live.metshop.top/huya/11336719
+#EXTINF:-1 group-title="虎牙-精选",电影_丧尸片
+https://live.metshop.top/huya/21059578
+#EXTINF:-1 group-title="虎牙-精选",电影_灾难片
+https://live.metshop.top/huya/11602075
+#EXTINF:-1 group-title="虎牙-精选",电影_谍战片
+https://live.metshop.top/huya/21059587
+#EXTINF:-1 group-title="虎牙-精选",电影_战争片
+https://live.metshop.top/huya/21059574
+#EXTINF:-1 group-title="虎牙-精选",电影_犯罪片
+https://live.metshop.top/huya/11352974
+#EXTINF:-1 group-title="虎牙-精选",电影_古装片
+https://live.metshop.top/huya/11336590
+#EXTINF:-1 group-title="虎牙-精选",电影_高分动作
+https://live.metshop.top/huya/11352884
+#EXTINF:-1 group-title="虎牙-精选",电影_动作电影
+https://live.metshop.top/huya/11602077
+#EXTINF:-1 group-title="虎牙-精选",电影_搞笑喜剧
+https://live.metshop.top/huya/11342423
+#EXTINF:-1 group-title="虎牙-精选",电影_喜剧专场
+https://live.metshop.top/huya/11602044
+#EXTINF:-1 group-title="虎牙-精选",电影_欢笑影院
+https://live.metshop.top/huya/11352894
+#EXTINF:-1 group-title="虎牙-精选",电影_不挤影院
+https://live.metshop.top/huya/11352897
+#EXTINF:-1 group-title="虎牙-精选",电影_国产悬疑
+https://live.metshop.top/huya/11342395
+#EXTINF:-1 group-title="虎牙-精选",电影_快意江湖
+https://live.metshop.top/huya/11342435
+#EXTINF:-1 group-title="虎牙-精选",电影_黑帮斗争
+https://live.metshop.top/huya/11342419
+#EXTINF:-1 group-title="虎牙-精选",电影_古墓系列
+https://live.metshop.top/huya/11352913
+#EXTINF:-1 group-title="虎牙-精选",电影_嫣然影厅
+https://live.metshop.top/huya/11601977
+#EXTINF:-1 group-title="虎牙-精选",电影_女神系列
+https://live.metshop.top/huya/11336571
+#EXTINF:-1 group-title="虎牙-精选",电影_经典女神
+https://live.metshop.top/huya/11352909
+#EXTINF:-1 group-title="虎牙-精选",电影_许氏三杰
+https://live.metshop.top/huya/11602033
+#EXTINF:-1 group-title="虎牙-精选",电影_经典港片
+https://live.metshop.top/huya/11352965
+#EXTINF:-1 group-title="虎牙-精选",电影_镖行天下
+https://live.metshop.top/huya/11352969
+#EXTINF:-1 group-title="虎牙-精选",电影_高能反转
+https://live.metshop.top/huya/11352887
+#EXTINF:-1 group-title="虎牙-精选",电影_喜乐影院
+https://live.metshop.top/huya/21059580
+#EXTINF:-1 group-title="虎牙-精选",电影_蘑菇影厅
+https://live.metshop.top/huya/11601981
+#EXTINF:-1 group-title="虎牙-精选",电影_搞笑恐怖
+https://live.metshop.top/huya/11601960
+#EXTINF:-1 group-title="虎牙-精选",电影_死神来了
+https://live.metshop.top/huya/11352903
+#EXTINF:-1 group-title="虎牙-精选",电影_变形金刚
+https://live.metshop.top/huya/21059596
+#EXTINF:-1 group-title="虎牙-精选",电影_怪兽系列
+https://live.metshop.top/huya/21059554
+#EXTINF:-1 group-title="虎牙-精选",解说_电影狂人
+https://live.metshop.top/huya/18715610
+#EXTINF:-1 group-title="虎牙-精选",解说_鹿哥电影
+https://live.metshop.top/huya/24396360
+#EXTINF:-1 group-title="虎牙-精选",解说_续哥说电影
+https://live.metshop.top/huya/24396472
+#EXTINF:-1 group-title="虎牙-精选",解说_小川侃电影
+https://live.metshop.top/huya/15870999
+#EXTINF:-1 group-title="虎牙-精选",解说_鱼丸电影
+https://live.metshop.top/huya/16615910
+#EXTINF:-1 group-title="虎牙-精选",解说_阿斗说电影
+https://live.metshop.top/huya/13303478
+#EXTINF:-1 group-title="虎牙-精选",解说_扁豆看电影
+https://live.metshop.top/huya/16028551
+#EXTINF:-1 group-title="虎牙-精选",解说_乌贼说电影
+https://live.metshop.top/huya/16604522
+#EXTINF:-1 group-title="虎牙-精选",解说_亮哥讲电影
+https://live.metshop.top/huya/16144175
+#EXTINF:-1 group-title="虎牙-精选",解说_越哥说电影
+https://live.metshop.top/huya/15894162
+#EXTINF:-1 group-title="虎牙-精选",解说_小冉看电影
+https://live.metshop.top/huya/17341907
+#EXTINF:-1 group-title="虎牙-精选",解说_嫦娥撩电影
+https://live.metshop.top/huya/18201106
+#EXTINF:-1 group-title="虎牙-精选",解说_阿翔说电影
+https://live.metshop.top/huya/16868935
+#EXTINF:-1 group-title="虎牙-精选",解说_虎妞说电影
+https://live.metshop.top/huya/20343144
+#EXTINF:-1 group-title="虎牙-精选",解说_顾久撩电影
+https://live.metshop.top/huya/16422212
+#EXTINF:-1 group-title="虎牙-精选",解说_涵哥评电影
+https://live.metshop.top/huya/16865726
+#EXTINF:-1 group-title="虎牙-精选",解说_俗哥看电影
+https://live.metshop.top/huya/15452736
+#EXTINF:-1 group-title="虎牙-精选",解说_老皮讲电影
+https://live.metshop.top/huya/16968572
+#EXTINF:-1 group-title="虎牙-精选",解说_默爷侃电影
+https://live.metshop.top/huya/17204307
+#EXTINF:-1 group-title="虎牙-精选",解说_冷君说电影
+https://live.metshop.top/huya/16739452
+#EXTINF:-1 group-title="虎牙-精选",解说_老炮说电影
+https://live.metshop.top/huya/15454716
+#EXTINF:-1 group-title="虎牙-精选",解说_刘老师说电影
+https://live.metshop.top/huya/20289754
+#EXTINF:-1 group-title="虎牙-精选",解说_恐怖电影解说
+https://live.metshop.top/huya/16741179
+#EXTINF:-1 group-title="斗鱼-精选",特辑电影
+http://epg.112114.xyz/douyu/3637778
+#EXTINF:-1 group-title="斗鱼-精选",粤语电影
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 group-title="斗鱼-精选",华语影视
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1 group-title="斗鱼-精选",神乐影视
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 group-title="斗鱼-精选",大宝影视
+http://epg.112114.xyz/douyu/805235
+#EXTINF:-1 group-title="斗鱼-精选",蚂蚱影视
+http://epg.112114.xyz/douyu/6079455
+#EXTINF:-1 group-title="斗鱼-精选",贝贝影视
+http://epg.112114.xyz/douyu/431460
+#EXTINF:-1 group-title="斗鱼-精选",可乐影视
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="斗鱼-精选",老邪说电影
+http://epg.112114.xyz/douyu/9222870
+#EXTINF:-1 group-title="斗鱼-精选",星君说电影
+http://epg.112114.xyz/douyu/8014467
+#EXTINF:-1 group-title="斗鱼-精选",刘哔讲电影
+http://epg.112114.xyz/douyu/2632223
+#EXTINF:-1 group-title="斗鱼-精选",老王说电影
+http://epg.112114.xyz/douyu/9687733
+#EXTINF:-1 group-title="斗鱼-精选",牛叔说电影
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1 group-title="斗鱼-精选",电影迷小雅
+http://epg.112114.xyz/douyu/9639225
+#EXTINF:-1 group-title="斗鱼-精选",刘老师说电影
+http://epg.112114.xyz/douyu/8317926
+#EXTINF:-1 group-title="斗鱼-精选",火龙果说电影
+http://epg.112114.xyz/douyu/9559158
+#EXTINF:-1 group-title="电影轮播",女神金电影
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="电影轮播",斗鱼电影2
+http://epg.112114.xyz/douyu/7459925
+#EXTINF:-1 group-title="电影轮播",斗鱼电影7
+http://epg.112114.xyz/douyu/7655471
+#EXTINF:-1 group-title="电影轮播",斗鱼电影10
+http://epg.112114.xyz/douyu/8475821
+#EXTINF:-1 group-title="电影轮播",斗鱼电影12
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="电影轮播",斗鱼电影17
+http://epg.112114.xyz/douyu/1274132
+#EXTINF:-1 group-title="电影轮播",【动漫】记录你的王者峡谷生活~
+http://epg.112114.xyz/douyu/9360149
+#EXTINF:-1 group-title="电影轮播",【科幻Fans】精彩科幻影视，解说连连看
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1 group-title="电影轮播",最新奇幻电影解说-宇宙无敌韩三金
+http://epg.112114.xyz/douyu/3194372
+#EXTINF:-1 group-title="电影轮播",斗鱼电影16
+http://epg.112114.xyz/douyu/426517
+#EXTINF:-1 group-title="电影轮播",电影解说2
+http://epg.112114.xyz/douyu/8413092
+#EXTINF:-1 group-title="电影轮播",电影解说3
+http://epg.112114.xyz/douyu/2987100
+#EXTINF:-1 group-title="电影轮播",电影解说5
+http://epg.112114.xyz/douyu/8867878
+#EXTINF:-1 group-title="电影轮播",电影解说6
+http://epg.112114.xyz/douyu/6725858
+#EXTINF:-1 group-title="电影轮播",电影解说7
+http://epg.112114.xyz/douyu/8799435
+#EXTINF:-1 group-title="电影轮播",电影解说8
+http://epg.112114.xyz/douyu/4258555
+#EXTINF:-1 group-title="电影轮播",电影解说9
+http://epg.112114.xyz/douyu/8705754
+#EXTINF:-1 group-title="电影轮播",电影解说10
+http://epg.112114.xyz/douyu/8415464
+#EXTINF:-1 group-title="电影轮播",电影解说15
+http://epg.112114.xyz/douyu/8788687
+#EXTINF:-1 group-title="📡  浙江频道",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="📡  浙江频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="📡  浙江频道",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="📡  浙江频道",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="📡  福建频道",福州综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="📡  福建频道",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="📡  河北频道",邯郸公共
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="📡  河北频道",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  河北频道",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  河北频道",河北邯郸科教
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="📡  河北频道",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  河北频道",平泉影视频道
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  河北频道",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  河北频道",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  河北频道",昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="📡  国际",GB新闻
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 group-title="📡  国际",RT新闻
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="📡  国际",美国·彭博财经
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="📡  国际",加拿大·Global新闻
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",RTHK31
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="🇨🇳数字4K",浙江教科影视
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="🇨🇳数字4K",浙江经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="🇨🇳虎牙直播",虎牙-TVB西游记
+https://live.metshop.top/huya/23735126
+#EXTINF:-1 group-title="🇨🇳虎牙直播",虎牙-TVB西游记
+https://www.goodiptv.club/huya/23735126
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影4K
+https://live.metshop.top/douyu/9249162
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD1
+https://live.metshop.top/douyu/4246519
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD2
+https://live.metshop.top/douyu/10240553
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD3
+https://live.metshop.top/douyu/122402
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD4
+https://live.metshop.top/douyu/85894
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD5
+https://live.metshop.top/douyu/263824
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD6
+https://live.metshop.top/douyu/747764
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD7
+https://live.metshop.top/douyu/20415
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD8
+https://live.metshop.top/douyu/8663752
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD9
+https://live.metshop.top/douyu/323876
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD10
+https://live.metshop.top/douyu/6140589
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD11
+https://live.metshop.top/douyu/8770422
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD12
+https://live.metshop.top/douyu/2436390
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD13
+https://live.metshop.top/douyu/218859
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD14
+https://live.metshop.top/douyu/36337
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD15
+https://live.metshop.top/douyu/413573
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD16
+https://live.metshop.top/douyu/1504768
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD17
+https://live.metshop.top/douyu/3637726
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD18
+https://live.metshop.top/douyu/9292492
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD19
+https://live.metshop.top/douyu/3637765rrt97
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD20
+https://live.metshop.top/douyu/10395991
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD21
+https://live.metshop.top/douyu/10395986
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD22
+https://live.metshop.top/douyu/252802
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD24
+https://live.metshop.top/douyu/315131
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD25
+https://live.metshop.top/douyu/8945323
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD26
+https://live.metshop.top/douyu/2516864
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD27
+https://live.metshop.top/douyu/248753
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD28
+https://live.metshop.top/douyu/4332
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD29
+https://live.metshop.top/douyu/9651304
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD30
+https://live.metshop.top/douyu/9650887
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD31
+https://live.metshop.top/douyu/8814650
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD32
+https://live.metshop.top/douyu/10240510
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD34
+https://live.metshop.top/douyu/8985415
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD35
+https://live.metshop.top/douyu/1165374
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD36
+https://live.metshop.top/douyu/1735337
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD37
+https://live.metshop.top/douyu/6537888
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD38
+https://live.metshop.top/douyu/6003761
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD39
+https://live.metshop.top/douyu/9683979
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD40
+https://live.metshop.top/douyu/1226741
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD41
+https://live.metshop.top/douyu/59612
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",斗鱼电影HD42
+https://live.metshop.top/douyu/925724
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",高分电影
+https://live.metshop.top/douyu/7254536
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",特辑电影
+https://live.metshop.top/douyu/3637778
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",国产电影
+https://live.metshop.top/douyu/5423
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",动作电影
+https://live.metshop.top/douyu/6763930
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",惊悚电影
+https://live.metshop.top/douyu/96577
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",粤语电影
+https://live.metshop.top/douyu/65871
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",华语影视
+https://live.metshop.top/douyu/3928
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",大宝影视
+https://live.metshop.top/douyu/805235
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",蚂蚱影视
+https://live.metshop.top/douyu/6079455
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",怡寶影视
+https://live.metshop.top/douyu/434971
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",圆子影视
+https://live.metshop.top/douyu/65858
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",贝贝影视
+https://live.metshop.top/douyu/431460
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",萌牛影视
+https://live.metshop.top/douyu/7494871
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",无双影视
+https://live.metshop.top/douyu/4870914
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",晚湾影视
+https://live.metshop.top/douyu/9461178
+#EXTINF:-1 group-title="🇨🇳斗鱼直播",酒染影视
+https://live.metshop.top/douyu/7550220
+#EXTINF:-1 group-title="🇨🇳历年春晚",四川卫视2024花开天下国韵新年演唱会
+https://cdn1.vip-vip-yzzy.com/20240101/10953_3f15684a/index.m3u8
+#EXTINF:-1 group-title="🇨🇳直播中国",湖南湘西凤凰古城
+https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="🇨🇳直播中国",福建漳州醉美沙滩翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="🇨🇳直播中国",凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="💫 经典电影",妖怪都市
+https://vip.ffzy-play6.com/20221129/9462_bbbcc871/index.m3u8
+#EXTINF:-1 group-title="💫歌星金曲",凤凰传奇-華夏传说
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="💫歌星金曲",凤凰传奇-今生的缘
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="💫歌星金曲",凤凰传奇-温柔姑娘
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="💫歌星金曲",凤凰传奇-御龙归字谣
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
