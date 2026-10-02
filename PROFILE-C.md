@@ -35,3 +35,11 @@
 - 修改 PROFILE-C.md：记录合并范围和验证限制。
 - 新增 assets/c/xhz-audit.json：保存本次筛选范围及解码证据。
 - 删除文件：无。原 A、B 配置不变。
+
+## 2026-10-02 合并第一配置 A
+
+第三配置合并当前已发布的第一配置，保留原 C 的 27 个站点及 606 条 XJ/XHZ 直播线路。新增 77 个站点，共 104 个站点、10 份直播清单、15 个解析入口。按站点类型、API、ext、有效 JAR 和 header 去重；共享插件 API 但 ext 不同的站点继续保留。C 原有站点顺序与 key 保持不变，A 插件绑定原有 JAR。
+
+本次是完整配置合并，不能将所有继承的插件和直播都标为本次播放验证通过。A/B 原文件和 C 的既有直播资产未改。原第三配置链接继续使用。
+
+新增 assets/c/merge-a-audit.json（合并证据）；修改 profile-c.json、profiles.json、PROFILE-C.md 和 assets/c/manifest.json；无删除文件。

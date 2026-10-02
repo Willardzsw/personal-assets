@@ -1,0 +1,26 @@
+{
+  "merged_at_utc": "2026-10-02T05:57:08.356399+00:00",
+  "source_a_commit": "b986ba3a44aecb0bff89a5760090b5ee95122b0e",
+  "source_a_sha256": "1bd3e187485d7ac29b0e1103c632d1ec627c9e2b911cbfcfb151235da55fff0a",
+  "previous_c_sha256": "ae2b924196df34d073a611b120eefbd72cb26e11a2e368e1127bc94ec2d732e2",
+  "a_sites": 78,
+  "previous_c_sites": 27,
+  "added_sites": 77,
+  "duplicate_sites": [
+    {
+      "from_a": "大师兄",
+      "retained_c": "免扫4K"
+    }
+  ],
+  "total_sites": 104,
+  "live_collections": 10,
+  "parsers": 15,
+  "preserved_c_live_lines": 606,
+  "protected_sha256": {
+    "config.json": "1bd3e187485d7ac29b0e1103c632d1ec627c9e2b911cbfcfb151235da55fff0a",
+    "profile-b.json": "1bd3e187485d7ac29b0e1103c632d1ec627c9e2b911cbfcfb151235da55fff0a",
+    "sources.json": "2fa299c3fd7497368b1f6829282f1f7732e5acba2257aa81eb2ed7d87411209d",
+    "assets/c/channels.m3u": "a48c32f320f0a13467896c8bcb4e7da5628e618af853eb31dd4b5d91bedf1879"
+  },
+  "validation": "Structural union, preserved effective plugin JAR bindings, exact site signatures and unique keys; existing sources were not all playback-retested."
+}

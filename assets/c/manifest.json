@@ -2,11 +2,11 @@
   "files": [
     {
       "path": "profile-c.json",
-      "sha256": "ae2b924196df34d073a611b120eefbd72cb26e11a2e368e1127bc94ec2d732e2"
+      "sha256": "818b937693b1a06dede6fde8e03d40baa5d530d04c48c53e14199af80ee8745c"
     },
     {
       "path": "profiles.json",
-      "sha256": "b133d7e5ca548969a264f6882811543ce5213a06797736287db4e7f840d26f83"
+      "sha256": "df1e65d5b1ee273d088b4e9622e6952df4581be8c7f830192933326d537447f9"
     },
     {
       "path": "assets/c/channels.m3u",
@@ -22,7 +22,11 @@
     },
     {
       "path": "PROFILE-C.md",
-      "sha256": "83fa03272b74ce7a352b45662be981d9fb936632e7dd6b3d19bd10b6dea1d9f6"
+      "sha256": "30183268c10ff1ca124a7d1d65f394ce2a218283014c7d392af62e49d02fcf12"
+    },
+    {
+      "path": "assets/c/merge-a-audit.json",
+      "sha256": "43de157107a0641296fa07bed7bf140d59c51951b044bad1948999799604e71a"
     }
   ]
 }
