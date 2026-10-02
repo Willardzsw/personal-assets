@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "profile-c.json",
-      "sha256": "3134842ef0cd996757fc342656838187fcb7f5a217404af145ab78dc4b5ff62f"
+      "sha256": "ae2b924196df34d073a611b120eefbd72cb26e11a2e368e1127bc94ec2d732e2"
     },
     {
       "path": "profiles.json",
@@ -10,11 +10,19 @@
     },
     {
       "path": "assets/c/channels.m3u",
-      "sha256": "bb19898ae25ca4142a407b42325eab6702b63b5027fe9dbf3132ec16d9ea48df"
+      "sha256": "a48c32f320f0a13467896c8bcb4e7da5628e618af853eb31dd4b5d91bedf1879"
     },
     {
       "path": "assets/c/audit.json",
       "sha256": "0f28ab28742d1ed1e6bfb29a9e1027848b0da7bb9d139acce5003743898ead09"
+    },
+    {
+      "path": "assets/c/xhz-audit.json",
+      "sha256": "1804c4b450e5f452839d14995f021bec5b55b624d78777e50475eb7fa0d50586"
+    },
+    {
+      "path": "PROFILE-C.md",
+      "sha256": "83fa03272b74ce7a352b45662be981d9fb936632e7dd6b3d19bd10b6dea1d9f6"
     }
   ]
 }

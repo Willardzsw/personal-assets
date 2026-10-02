@@ -1,0 +1,7857 @@
+{
+  "checked_at": "2026-10-02T05:21:47.695844+00:00",
+  "source": {
+    "source_requested": "https://xhztv.top/xhz",
+    "source_recovered": "http://xhztv.top/xhz",
+    "site_types": {
+      "3": 54
+    },
+    "sites": 54,
+    "parses": 6,
+    "live_entries": 2422,
+    "new_unique_candidates": 2198,
+    "excluded": {
+      "credential_or_signed": 32,
+      "already_in_c": 33
+    },
+    "plugin_playback_verified": false
+  },
+  "source_sha256": "7594130e1ba680a4766997acc24286f1f2db91db391cc3dff5fd23ad7882d0ab",
+  "preflight": {
+    "failed": 1128,
+    "unverified": 643,
+    "passed": 427
+  },
+  "decoded_candidates": 427,
+  "added_live_urls": 372,
+  "added_distinct_channel_labels": 371,
+  "retained_original_live_urls": 234,
+  "retained_vod_sites": 27,
+  "plugin_integrity": {
+    "md5": "69dadb9a99a618ea9e2f4e2b92968e41",
+    "matches_source": true,
+    "zip_crc_ok": true,
+    "executed": false
+  },
+  "limitations": [
+    "Only new direct live URLs were playback tested. Existing C entries were preserved without retesting.",
+    "Each addition passed two five-second FFmpeg audio/video decodes with at least 25 frames per pass and no detected corruption.",
+    "Network-specific snapshot; Android playback remains unverified.",
+    "54 Android plugin sites and 6 parser entries were not imported because playback is unverified.",
+    "Origins unreachable after six connection errors were marked unverified; this does not prove permanent failure."
+  ],
+  "live_evidence": [
+    {
+      "name": "浙江卫视",
+      "group": "卫视",
+      "url_sha256": "92b37bcf33df0cd081a59c4e85650962f9aaf4ebff52e078815e822f79daaf7a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "倒霉特熊",
+      "group": "少儿频道",
+      "url_sha256": "fe94e56405f54fecce8892c85bf7187b935aeb76bdd70d705eda7a7772a448f0",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "雲朵妈妈",
+      "group": "少儿频道",
+      "url_sha256": "bd923ba29dc175d9ce447b329f4d28d563525c0f30fbefbe874dd7d4074e1bcf",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "反转星球",
+      "group": "少儿频道",
+      "url_sha256": "1aaf6a685aa77eb87e71328cb233727fddef136d761bf4e15789e13174d9f347",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "熊大熊二",
+      "group": "少儿频道",
+      "url_sha256": "65344b98c07c8de93de8a05a97b732919a68d05689b8e1d575c3181bfb2aae28",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "狮子王國",
+      "group": "少儿频道",
+      "url_sha256": "74e64db1b74bfd50f0e1391e7a6a00cbba43f2c89c9cdd435dd9b49e8bcad3e4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "绍兴影视",
+      "group": "影视",
+      "url_sha256": "c86367482b63f5591938d27d041998067f1842a1d842de88079ce0871439f5b5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "开心锤锤，开心快乐每一天！",
+      "group": "斗鱼",
+      "url_sha256": "9710537219ed8e86f5ee02fc4fcc559004542bddc0677a67c3113fd8b7231bee",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 100,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "最好看的搞笑篮球动漫",
+      "group": "斗鱼",
+      "url_sha256": "03e8ea78be19feb92573160b65de17c982d0fb084872f7ed16a2815c7a9769d5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "铁头与橘子（每周更新一起看霸总）",
+      "group": "斗鱼",
+      "url_sha256": "62e638e3769f5c89df35551f2863311035708c847f849818634f1e3d654f930d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 147,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "粤语综艺",
+      "group": "斗鱼",
+      "url_sha256": "6cfcd2212d5d8f0fa2f394c110a287a5e5528b35fb652af50c2ead2030f114c6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 100,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "华语经典",
+      "group": "斗鱼",
+      "url_sha256": "75af19408039a97fe763e635d1df817565cb2c64d966f109c4bd15f2d559a6b5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "林正英电影2",
+      "group": "斗鱼",
+      "url_sha256": "11687919627fc4869a82323138469cc61c217b7eff7ab6168ebf4d49594cc4d2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "冰冰经典电影",
+      "group": "斗鱼",
+      "url_sha256": "244db8744082217398c7801999430640f8238f5385ca1d00d81cd8c2b9b45b67",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 108,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "连续剧2",
+      "group": "斗鱼",
+      "url_sha256": "afa5882c4a4ff419afa2b9d01e3405725ee1446b34f527961b17624f278ca48c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "斗鱼电影HD3",
+      "group": "斗鱼",
+      "url_sha256": "b0115c88a2cea00230fd539af897e7d27bdd935055e2fc7c8c08d3f68a07c9a5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 148,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 137,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "斗鱼搞笑HD1",
+      "group": "斗鱼",
+      "url_sha256": "1f11cb3cf9630022f7ee6e616aed2a9ac102ec7cdc3f38cb3c13d5f8e57c8ba8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 100,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "斗鱼搞笑HD2",
+      "group": "斗鱼",
+      "url_sha256": "42053a3d87c4c98369c0864b99b1218fe65ad0a777ae979b297aec507dbaf503",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 90,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 144,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "斗鱼搞笑HD4",
+      "group": "斗鱼",
+      "url_sha256": "90b819527b55a72da26e7324d0877e4271a6b8882e1b250d1537fca39390bfcb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 100,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 100,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "斗鱼搞笑HD5",
+      "group": "斗鱼",
+      "url_sha256": "af8804c32be2c5cee7342acf2b3a9ee093e5686ea3bf50d2933596ced27d547c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 100,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "菏泽经济生活",
+      "group": "山东综合",
+      "url_sha256": "f1a2bbcb0ade4d5a08e8b18cf1999f61196af7cd18a617ecd77e7af3bf9cb1ab",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "汶川新闻综合",
+      "group": "四川综合",
+      "url_sha256": "4707ecb099196c8b155f3cc2b806257c228e61d8581bb5db99c3420f6371653e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 63,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 63,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "宿州公共",
+      "group": "安徽综合",
+      "url_sha256": "d37ae4ca02383efb70efc77872800eff3014f5df020e89f7d84db0acb2cdd264",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "Soda东南亚之旅",
+      "group": "数字",
+      "url_sha256": "29968a6290917eac858785fcaeeb13454fb81e8894576bdbd7dbf957165bc691",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 98,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 98,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "人与自然",
+      "group": "纪录片频道",
+      "url_sha256": "9a9ebe4edd991262aaa8a9dafc21267e31241a87b5604dae25ad46e7eecb66c5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "飞碟之谜01",
+      "group": "纪录片频道",
+      "url_sha256": "9650f928319c34483dfbcbf8862e01d67a196fdbd330984ce91b1f939c2d4e25",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "飞碟之谜02",
+      "group": "纪录片频道",
+      "url_sha256": "02aa9ba1b2424fa68bbd9bb6b26d011ed6dde3ca1dae3c095d61237041624695",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "航拍中国第二季",
+      "group": "纪录片频道",
+      "url_sha256": "0739d7905211459dda51a145869cd51ddebea2ec30e4e084105011aee771a7c1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "兵团五师双河影",
+      "group": "纪录片频道",
+      "url_sha256": "dcbb67fc245bf9e6b2a8a3394e0d119a77797c064fdb7aa4c840616d24666020",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 146,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 147,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "白山公共",
+      "group": "纪录片频道",
+      "url_sha256": "8bd14fea0c534c0313855fb62df83d3c3df5c867a0e9b8f58a39a80c209382c1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "长白山电视台",
+      "group": "纪录片频道",
+      "url_sha256": "7f6ac1162d39a45f34e69104ec5863defc0b900ce864620ffd59f1c9258d4a16",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "九台综合",
+      "group": "纪录片频道",
+      "url_sha256": "c2191653850db41253326a17a59594a57d41bef1762ef1f69e1ef5abaf93fdf9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "靖宇综合",
+      "group": "纪录片频道",
+      "url_sha256": "a7384735b9decb5c595fe315efee1396a0483aef9a1b4835ee05f180d28a0cde",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "敦化一套",
+      "group": "纪录片频道",
+      "url_sha256": "7a19f7628f449323053930d6ca19f8ab958941a783150cfaafd50e27a9c87c91",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "珲春新闻综合",
+      "group": "纪录片频道",
+      "url_sha256": "d54e02e29eed790e926a8ecb0fdfc31a13c8c994e37528e331a2fabf71e3f736",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "龙井综合",
+      "group": "纪录片频道",
+      "url_sha256": "efd17390e0333cd92b5c9da0074ecc0ef674fc0c8f67b3e961dc7784191b0211",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "桦甸综合",
+      "group": "纪录片频道",
+      "url_sha256": "3d520bb030d9a4f574f8a8fb9de507694c3d6bd61f2de65233dd74f0742afe11",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "磐石综合",
+      "group": "纪录片频道",
+      "url_sha256": "c1781d1370b3d66f6982da1533ffd4893d02890b32e726f4cf35c5af9f5191a3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "舒兰新闻综合",
+      "group": "纪录片频道",
+      "url_sha256": "461b2d389fc969e0d6ad40c101e57063ed9bdbb5b391e5972c69d6b1f27808ce",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "东丰综合",
+      "group": "纪录片频道",
+      "url_sha256": "db88d640ab702ca3c3d6da5210d9a1757a1670cbf768a61fc790f445aae89e3b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "双辽综合",
+      "group": "纪录片频道",
+      "url_sha256": "28804a3a0124512230e70940e58531f17c82ffe22f8edd27b5c18006046c789a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "辉南新闻综合",
+      "group": "纪录片频道",
+      "url_sha256": "f094ecfea978562fc4d9b184d51afa2968ced729e6e453df6f7a2268454eab30",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "柳河综合",
+      "group": "纪录片频道",
+      "url_sha256": "fc479a7232f8361657bf02a10ace0cd0c8b76abbfc66e629e8c003f286639443",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "通化县综合",
+      "group": "纪录片频道",
+      "url_sha256": "a60dd7a8345a761d4c48479d290ded42d96d69c644fea34bc6f02ccd9d5344b3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "汪清综合",
+      "group": "纪录片频道",
+      "url_sha256": "52fb289832a333c01dab1acd10356b019b0256c96ee55e36a0f1f75d387d620c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "直播中国",
+      "group": "直播中国",
+      "url_sha256": "4cf7025796a79d59c78f7dcab17b4b1eefdda82492e3775292c544b03219e3b6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "直播中国精编直播",
+      "group": "直播中国",
+      "url_sha256": "c78db2b5ccf28702aab2b45443867813859d38834fd12eca2c03a6e9a65950b9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "湖南张家界水绕四门",
+      "group": "直播中国",
+      "url_sha256": "d28d72b9e128d29af0328ff787a9271ead684c59c83c92bfc6631a409f07f987",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "湖南张家界将军列队",
+      "group": "直播中国",
+      "url_sha256": "172ac9a9731e7a56a4aa600eb3cb16beb00c364f1f5197800bd7f098d7bcd3e7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "湖南张家界迷魂台",
+      "group": "直播中国",
+      "url_sha256": "bd047d532f23f57e2ea9a82b9bac0faff4adc0b9002809f327f29736418b40e3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "湖南张家界宝峰湖",
+      "group": "直播中国",
+      "url_sha256": "ab39af7044904e9f47995c1e60af2a43eaecf3f98df2d0363417a3380d920500",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "湖南张家界御笔峰",
+      "group": "直播中国",
+      "url_sha256": "c05b531457643abb9463d34e270dbd8f75b182da0113142b76c9dade05ee148c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "四川峨眉山云海日出",
+      "group": "直播中国",
+      "url_sha256": "e73ced07321d041a85e00a4354d8def8d11ac3c89032b3bc3a999bcf5f877b4c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "四川峨眉山远眺贡嘎雪山",
+      "group": "直播中国",
+      "url_sha256": "d71c28787f8070b3831bc5b9586d148de158edb3e5f01021f0517412f5fb419c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 116,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "四川峨眉山普贤菩萨铜像",
+      "group": "直播中国",
+      "url_sha256": "ef73c1789fca4e9c215f1f6105f887cdc39efd799df3f8ba1ccd2a7c8cd4af31",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "四川峨眉山远眺万佛顶",
+      "group": "直播中国",
+      "url_sha256": "b85af993c9a3f92ab3a58eb600c703422f8b743008738a9cb2aadc8712a32363",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新疆天山(定海神针)",
+      "group": "直播中国",
+      "url_sha256": "bfbf969262b45a871a8c35175c8dd95f3e8213b4bb16f58123507e443daf31e2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新疆天山(马牙山)",
+      "group": "直播中国",
+      "url_sha256": "3403e0c5ff8dbe092dc6b89c30bfb9b1c11cbd29789dde2aada46f21c4e19690",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新疆天山(灯杆山)",
+      "group": "直播中国",
+      "url_sha256": "4ec447648cb55ed3d2b1efcc906dec37c3325bd9367d3ac415b801e0bd6d2fba",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 119,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "湖南张家界天门山西线玻璃栈道",
+      "group": "直播中国",
+      "url_sha256": "6ad595d7478b9d71379f3dd7452e6f99f2eb047ba3370f3bcdbfff82770f6a1c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "厦门鼓浪屿",
+      "group": "直播中国",
+      "url_sha256": "0d3faecfe0cf0b8915be7ac2a104285f9d17e9d2fd42fe90671dafb9d26e22f0",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "广西玉林大容山莲花山顶",
+      "group": "直播中国",
+      "url_sha256": "428d67ad028a327784f129790092048c52659c391fe0bff5527bca1ddb2503b1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "八里沟风景区桃花湾瀑布",
+      "group": "直播中国",
+      "url_sha256": "bbba585415cc3fb63c57691bcdb9eb0c8c3c5363c4136c3b25a6d7d3c509cbe4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "八里沟风景区天界山玻璃栈道",
+      "group": "直播中国",
+      "url_sha256": "3afe3161295954415876998133a3b08345e480547d2b0349975e1c0d00675dd5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "安徽池州九华山风景区花台",
+      "group": "直播中国",
+      "url_sha256": "ca15a104c721667382ade96c808ff0065f24f13d8cf70785d28cddc021d4fac4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "江苏徐州云龙湖风景区云龙山观景台西",
+      "group": "直播中国",
+      "url_sha256": "e702f8fcbcf12cdea8b91ca266389a93dc15b2630759af1dd3ab1a6453b11ea2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "南京玄武湖公园",
+      "group": "直播中国",
+      "url_sha256": "2f02f17a846f0b8005257f3d36fe0567370e05c594e720bfcd73598b09566487",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "云南丽江蓝月谷",
+      "group": "直播中国",
+      "url_sha256": "c519e831f0f2e2b3b1dcb131c6d7f1b376dd43975d91109dd1fa622137e24950",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "云南丽江冰川",
+      "group": "直播中国",
+      "url_sha256": "07adb35b07f883a7c728d858b7961cf0c3ea7050138e4454ca9332d4327cc41f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "江苏南京牛首山",
+      "group": "直播中国",
+      "url_sha256": "c0a9b764f4e8dd38b4990aea676dd64021e7a923c9ea690358582040c1d3f968",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "普陀山",
+      "group": "直播中国",
+      "url_sha256": "7b801d736eaaca1245b142faca46b7d1cc8526e004e258866eed05635d1f24f2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浙江舟山东极岛",
+      "group": "直播中国",
+      "url_sha256": "eb652712ce9b6a02a7e4b8b39bb63b1e76a422237e7a662d3bfc1b9e5e8412e6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "四川四姑娘山隆珠措",
+      "group": "直播中国",
+      "url_sha256": "3d81f81c0fcaeca66e7e8176ab91bc2c1f96990ccf5086f983fb573b4734a424",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "丽江古城大研花巷观景",
+      "group": "直播中国",
+      "url_sha256": "8134ec2afa8675849d66dbe02ae09d4845dabfbb08d4865686072dd31c465608",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "丽江古城大水车",
+      "group": "直播中国",
+      "url_sha256": "6e770aa70e1e059bcd09c369e686e3fadd2df0748caf2f59f718bdd36d56a5ff",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "丽江古城万古楼遥望玉龙雪山",
+      "group": "直播中国",
+      "url_sha256": "a30e765a4b0611791e749c1d668f561d2d0b5a654b4fcace83bf64f2225d98cd",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "狮子山鸟瞰丽江古城",
+      "group": "直播中国",
+      "url_sha256": "231132712c01dd14ce0530bf5f22a893f894c17fc44b042b4a32cdbf4d40a3f5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "雪乡梦幻家园",
+      "group": "直播中国",
+      "url_sha256": "6573018fd2e4ebde4f518b557abcaf649bdf93d54aa9f93c3bcd1d17e82d31bd",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "雪乡大石碑",
+      "group": "直播中国",
+      "url_sha256": "7a7e062efb96021bbb7ae2b2bbdc609e316509cb2b9cef5de8fafd757681043a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "乌镇西市河",
+      "group": "直播中国",
+      "url_sha256": "d9f2d9c9fbf080bd81a5c800b8b04d9bd22fb864ae3b6352016c1321e44694a6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "乌镇龙形田",
+      "group": "直播中国",
+      "url_sha256": "cfdd475f21f85f0b47dbbbfc689d0cfcac7134348b2bfdb6bfe8b9aec08bb06e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "乌镇全景",
+      "group": "直播中国",
+      "url_sha256": "f412732d212a6272b9d139cb0f546e34e702f5fe61f414a786b530784679ac82",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄花城水长城01",
+      "group": "直播中国",
+      "url_sha256": "6c74fef30228c14ff3e2d48614b18afa5e3974cec4b7586cd937dde23fd1f9c5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 119,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄花城水长城03",
+      "group": "直播中国",
+      "url_sha256": "fab667ecda84b4cfe50d598cb5679bfc3fcb8c71cab3decf08e438cf72518f56",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "鸣沙山",
+      "group": "直播中国",
+      "url_sha256": "fb1854442423f795d76b1d44da0e87b2091abd7289699ff1551c3f6e144371e0",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "月牙泉",
+      "group": "直播中国",
+      "url_sha256": "50b03f46ef84363352209e13ebefaa0c91d399176203bf3abcafc97af1889dec",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "泰山望人松",
+      "group": "直播中国",
+      "url_sha256": "28e9a8f32f19beecf86d7351d1e57dd43b25fd9e863e765a0c25262479212d60",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "泰山南天门",
+      "group": "直播中国",
+      "url_sha256": "f1be6966bb42d73e49cf7198cd5db8177429f704c5cde0c53fb6641edc157f4c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "泰山白云亭悬崖",
+      "group": "直播中国",
+      "url_sha256": "45e0394b9b4c6ea150848090c3e51687d2359028c246213521d0624ee397d8c2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "泰山太平岭",
+      "group": "直播中国",
+      "url_sha256": "3ca57bb1a7ee0ebc332b2f2aa5202304d53c0000f1ec618c87ddee11f8fd0d1f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 119,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "泰山碧霞祠",
+      "group": "直播中国",
+      "url_sha256": "ddbd825087261046e817a99edf7188ce28adfe61e1feac190c64b7af6b2d2a16",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄山排云亭",
+      "group": "直播中国",
+      "url_sha256": "9490b663905117cb38e75d716a6aa2155ff59ac8a4ad86449c58a7cf22515587",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄山飞来石",
+      "group": "直播中国",
+      "url_sha256": "88406440894606aa47006520b763e148950e41d5ba22e450daa0d97dfc530e88",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄山",
+      "group": "直播中国",
+      "url_sha256": "e605727ffe3aac14600901c82b06153220a6f0691ebf56c43662b919f93bf70b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陕西洋县国宝朱鹮03",
+      "group": "直播中国",
+      "url_sha256": "39ebab9a72e851029aac5151759bef0054f4bc911440f87500fc3ca8960776f4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "中央电视塔东",
+      "group": "直播中国",
+      "url_sha256": "783a419d9a1ddcebffb1c51589bad2d7120c11a490622cad6c28ca8c67e9e777",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄果树六角亭瀑布",
+      "group": "直播中国",
+      "url_sha256": "9b9fda761735df0cdf26039c8b20325efd52071b39399793c78fe36a2eb74b2d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "天涯石",
+      "group": "直播中国",
+      "url_sha256": "12ee1a164259b3c37a91cfc3cd5163e3ab9fc49264ab1ad3ca2b3ab4dcb5a3cf",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 72,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 74,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "六盘山红军长征景区",
+      "group": "直播中国",
+      "url_sha256": "48c5b8d19ea27081a9e9a483444354b590c224c2ff77ec913291c12b82f300ce",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "贵州省兴义市万峰林",
+      "group": "直播中国",
+      "url_sha256": "174e59a840313c0d8cfae4f773f6af7fbc0d0d4a3e90c48b8ca6071ddda3894e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "云南大理崇圣寺三塔中景",
+      "group": "直播中国",
+      "url_sha256": "e61bc36384609de217c41f5f1851a9e6aeb84d284696819f5f07a55722404254",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "云南大理崇圣寺三塔远景",
+      "group": "直播中国",
+      "url_sha256": "8bc58c14361e0863e5619e8ef1bca9a7008465ba1030d6b8b5dde52af8dfbe27",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "广西桂林漓江景区",
+      "group": "直播中国",
+      "url_sha256": "dd31709961317d021a88d621913e52ae3caa02c5482c6bccfea9fbdb6b187f1b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "青岛崂山八水河",
+      "group": "直播中国",
+      "url_sha256": "f513c3a1a7bfb6a83676becb33752fa6c1cb0e157a9a0c030bdba9211dd97944",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 115,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 119,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "张掖七彩丹霞",
+      "group": "直播中国",
+      "url_sha256": "086b1fbca2a81a12e421b389df36d7ab22b4f379e4c0f2e6029acc66db8feeb7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "都江堰鱼嘴",
+      "group": "直播中国",
+      "url_sha256": "59b680437d98dc7e6ce0e89178b6d54b86b5945e2dfc508480b1c5271eb1cc69",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "乐山大佛全景",
+      "group": "直播中国",
+      "url_sha256": "dd9e99cd99de61a13119903dcbda00f2973259bdf93888fd607f335d562c4a87",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV33",
+      "group": "歌星金曲",
+      "url_sha256": "5c39c09f6a05ed64e4004a9bb98c1a4a5de463f8e5f96c340f0a1fe3d576c533",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV34",
+      "group": "歌星金曲",
+      "url_sha256": "b25bc6f25d5b9767714746abd44cc3104a7d1f65ec818a642acda2059e117637",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV35",
+      "group": "歌星金曲",
+      "url_sha256": "c8ede0c33e4c0685fe95dac9a303f32982c9187467458eecff967172eac7c6bc",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV36",
+      "group": "歌星金曲",
+      "url_sha256": "c9a8753146db33a41c5c6facaacb0351cb2c89aae1e19f25a3caa89e26265c14",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV37",
+      "group": "歌星金曲",
+      "url_sha256": "f59e803a3832b9f2f9c2cd0449ca5acbff9d9abff9209602dd7e77b79502ac68",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV38",
+      "group": "歌星金曲",
+      "url_sha256": "db3ac9b9d64f5cdaebf4c109b2e7b11fd9aae44629cf21da91287c246e3cf1c3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歌MV48",
+      "group": "歌星金曲",
+      "url_sha256": "ea702bcd525dfa1b8a2990d84504dd8b71a3ce7540d524ea01aad8f1d802592d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "冷漠-不要再说你还爱我",
+      "group": "歌星金曲",
+      "url_sha256": "c89363b4fe9b63fcee4137f50866b500343899f7346f535a87b5f26a2b200194",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "冷漠-多情的人不该相遇",
+      "group": "歌星金曲",
+      "url_sha256": "622d703bf20330aba094854b0aa17f4245a9604d9f136355287d3869e8ec69f3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "凤凰传奇-荷塘月色",
+      "group": "歌星金曲",
+      "url_sha256": "8c8f6152e0d1d31e9ca890eaca7c9db10187fde884426c395f6328d39e9c8d79",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "邓丽君 歌曲精选九首 經典歌曲",
+      "group": "歌星金曲",
+      "url_sha256": "cc8da880e633a9f228320781d63c64efdb8542842374ee28634832ef12c62771",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "金典老歌",
+      "group": "歌星金曲",
+      "url_sha256": "b31d84b79acf5c031817bbc045f7ae371a6a3fb1f27b5870e56d53c3d986774c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "刀郎經典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚",
+      "group": "歌星金曲",
+      "url_sha256": "5ccd8a73f226eef6811626a836fdf3f23c36499b0722c1ceb7e6db8a7a4ed6eb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "刀郎經典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》",
+      "group": "歌星金曲",
+      "url_sha256": "d1b7860b7797d8d8d60cb15d4ab2bd52b3f47fb1c5c614a87628c5fc0ef3bead",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "怀旧金曲:刀郎《黄玫瑰》",
+      "group": "歌星金曲",
+      "url_sha256": "44f5b02edbf038cb9326bf3844e07b5375d9adacf6efe00d43815ad90c53ea3d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "飞鸟和蝉-任然",
+      "group": "歌星金曲",
+      "url_sha256": "adc72a335c161d3acc1a6f88adcadd089c946f073df4d76fb9c9c59353f39560",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "海鸥飞-龙梅子",
+      "group": "歌星金曲",
+      "url_sha256": "0e48ef724897a66af8d0bd3ee0949b706138da7f2cd543752d8eadc3dd29120c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "不再痴情-黄静美",
+      "group": "歌星金曲",
+      "url_sha256": "1f9fe6259fbd05fb8ca3d072d74c18ecd2d2743b8e11babf2432b06f2f97c92a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "天公不作美-黄静美",
+      "group": "歌星金曲",
+      "url_sha256": "367e1b27f3c3486c2b5587e6fdc66cff77a82d35eb2207929632970d2fa4340f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浪子闲话-笑纳-赤伶",
+      "group": "歌星金曲",
+      "url_sha256": "e6c8914cffc725640efced19c4f22ccec3c3d17d7e70995ef2d4c31e887b8fe4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "用力活着-张茜",
+      "group": "歌星金曲",
+      "url_sha256": "6e92e2a16cdd31370c6bc437cb8c056d8f82260640a29796547994b01a777d5e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "点歌的人-海来阿木",
+      "group": "歌星金曲",
+      "url_sha256": "29add5e74734a6d7e51117fca3a0398ee7e6df0ec46aa7eef592e321936499ab",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "当我孤独的时候还可以抱着你郑源",
+      "group": "歌星金曲",
+      "url_sha256": "6c8391d3cabe66b4eef4dfbaa25dc7cb50862904bfe98d910ac7c3174d77d477",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "寂寞的人伤心的歌-龙梅子、杨海彪",
+      "group": "歌星金曲",
+      "url_sha256": "ffa729031a608f55c0cfc17e422f9ae09e7c68861fa0228470411210889b929c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "两个人-蔡妍-BerryGood",
+      "group": "歌星金曲",
+      "url_sha256": "d45b36d8e53436b321880740a7aa02aede4b0ac63577be3491f9bb416663f7e5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "两个人-蔡妍-BerryGood",
+      "group": "歌星金曲",
+      "url_sha256": "f1c7c14e495e48f074fdb89a91f40fc0df9a029089a7ddc369f060fba058072e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "情歌皇后林翠萍《相见不如不见》F",
+      "group": "歌星金曲",
+      "url_sha256": "21c4827c94a5667e5ee138ba8c11134b5bbfe4e7a4ae3280db6c7e571670c250",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "林翠萍經典老歌《相会在梦里》F",
+      "group": "歌星金曲",
+      "url_sha256": "847c3aad34b7c0a43118c9cd46e50cd38fcd2ef917b57cf9f9a0fc14b2a90661",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "林翠萍經典情歌《相思豆》F",
+      "group": "歌星金曲",
+      "url_sha256": "2c856e70368c5eff5a8b8f5ff57e18f3701554468a07e824a85c62f0a23e8913",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 102,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 102,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "精选韓宝仪經典歌曲10首F",
+      "group": "歌星金曲",
+      "url_sha256": "f09252f44e11e142574f648922b4abf7382f13a3175fe555481cc2442dc7f765",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "龙飘飘《我没醉》F",
+      "group": "歌星金曲",
+      "url_sha256": "159d6c3b72dd892c5118cbc2ef5a8835d9e14fec30ef3c8f890c3d71c807007d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "龙飘飘《往事》F",
+      "group": "歌星金曲",
+      "url_sha256": "03296abd4e879da00117c72c70cce92e05197aaf6658941c5784d2d065c47082",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "美酒加咖啡 龙飘飘F",
+      "group": "歌星金曲",
+      "url_sha256": "47db1d02848cf7fcb931f51cb32df1bfa8df00746914c6c2d52f2aff0165342d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "林翠萍《麦搁來这套》",
+      "group": "歌星金曲",
+      "url_sha256": "ab19eb3c0c9a9c37f83efa9a9f0955ab58121d03e7c949cb8aaa56a3c1c1d7f7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "龙飘飘經典老歌《后悔爱上你》",
+      "group": "歌星金曲",
+      "url_sha256": "847a36a89755a2e0345a3df8794c51c877ddbd1a803f80c03e030d3e50e7db7d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "屋顶着火宋茜",
+      "group": "歌星金曲",
+      "url_sha256": "c9f8de24fa54b6d5405aad9c204e8a33b8918f426de81797ce6e8eaecc4a92e4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈柯宇生僻字",
+      "group": "歌星金曲",
+      "url_sha256": "faed8d5dc128337a478d70eb97944f339e80e77afbf10a6c60a6faffc198348f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "摩登兄弟探清水河",
+      "group": "歌星金曲",
+      "url_sha256": "01b5c3c937f865688a61c51e6b02771e11f5b737a5eab7cb2dc35097d6e37ea5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "筷子兄弟小苹果",
+      "group": "歌星金曲",
+      "url_sha256": "e46eafea4ceb53c89285f719ce17408f2c98731b4a8f45cfab83f3bbfe768c08",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 74,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 74,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "李玲玉女儿情",
+      "group": "歌星金曲",
+      "url_sha256": "355b4a1b85cbb26c5de5561ecfa1bd5e877c8ebbce017535322300f3ddeafcac",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "你的酒馆对我打了烊陈雪凝",
+      "group": "歌星金曲",
+      "url_sha256": "f6c47036ac57f43015dd6d318475a2facc779c6f3b98871e2d047d52c0fd3a4f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "醉千年李袁杰",
+      "group": "歌星金曲",
+      "url_sha256": "9cd35f02b52791b5a4b7c8e56596044ba353ab52b382b08a3ecf6e7f91408419",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "杜德伟-情人",
+      "group": "歌星金曲",
+      "url_sha256": "1e2fd65c5bb8dd4c5192dee47ca5d2cca27c15964f2e0c94d99eb5c65546dfa4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "男儿当自强 林子祥",
+      "group": "歌星金曲",
+      "url_sha256": "90c5c843d1f511522a4a588d9932c92670b098de9dc2b98924e27e2ce2c8ca7a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈雷-随缘",
+      "group": "歌星金曲",
+      "url_sha256": "04f4f951fbb7f7fedbd46488fac939af85c3bf83c73dcfb455e19363b6b76bff",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "歡喜就好",
+      "group": "歌星金曲",
+      "url_sha256": "07d24f550d6ccc68b956763e8b1bd0bf451a5cbbd20fd1750eec610a7e486994",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 75,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 75,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "故乡",
+      "group": "歌星金曲",
+      "url_sha256": "cc9edea72ade098a0b88dcdf5f9d44b86e88e741855776525f50fdd94da406df",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "爱情鸟",
+      "group": "歌星金曲",
+      "url_sha256": "ff49d1743006fbd068c13559acc7acb977d50f0e493e334cd39ac4954d593f6b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "爱拼才会赢",
+      "group": "歌星金曲",
+      "url_sha256": "02a58e47c1b724c76ebd989f4d37c37eaceaf6fd3b62ec27e666e72545907924",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浪子的心情",
+      "group": "歌星金曲",
+      "url_sha256": "ba7531a98f1be9063f57d49acbf83749c5a46da1720e615089cfc1fc55e0c5ad",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "草蜢-失恋阵綫联盟",
+      "group": "歌星金曲",
+      "url_sha256": "28704948002f448fe8e6d3c54b0a0dc06ff284ec16afd034beb7407f68dcf240",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "草蜢-忘情森巴舞",
+      "group": "歌星金曲",
+      "url_sha256": "8d2f847a8d89813618e2e5ccc950a2087cb2a2357d58d7a042351c1b232cf3a7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "草蜢-宝贝对不起",
+      "group": "歌星金曲",
+      "url_sha256": "6c80f125082761765922f80cb3197849ce28d757f318649dd500c9f92a3aaa39",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "王菲-容易受伤的女人(国语)",
+      "group": "歌星金曲",
+      "url_sha256": "eded0b1d7ad878b71aca74af45528332f50f2bba49815733c3ae39f5155b58a8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "王菲-执迷不悔",
+      "group": "歌星金曲",
+      "url_sha256": "e3d855aacc6c6935b9eadeac63f91788c57d76f8fdb591ea68c6e54c1be774f1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "黄凯芹-相爱很难",
+      "group": "歌星金曲",
+      "url_sha256": "2cea59938f959f57aab2161746d4e1474a660e1d23507f9d3480c29829ac61e4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "彭佳慧-回味",
+      "group": "歌星金曲",
+      "url_sha256": "ce2406d516d9b5171d9c8d483eec49e5ac63bf63d7935980a28bfe7cffd23fb6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "叶倩文-潇洒走一回",
+      "group": "歌星金曲",
+      "url_sha256": "a016b9100dcb5b388d55e36880ebba0f5bf9c18960a10b781b0f78fa68b138c7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "叶倩文-曾經心痛",
+      "group": "歌星金曲",
+      "url_sha256": "467bc95047c1f948f0ef6ab9b67276990d39412ebb1844c63ae167285e239750",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "叶倩文-我的爱对你说",
+      "group": "歌星金曲",
+      "url_sha256": "345166c4fafc27060ecaf4158ad33571b48195e37bca39d33cd8c379c68556ae",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "吕方-朋友别哭",
+      "group": "歌星金曲",
+      "url_sha256": "77fb714dd3452b1b69456f598bf7000ae024cf52ac7d735280775ecb2b1ceb04",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "李圣杰-痴心绝对",
+      "group": "歌星金曲",
+      "url_sha256": "e136400ad2aae48cbd9cd6041df0aa44bf2e1326b4752cab558f1bb71bf18925",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-有谁知道我在等你",
+      "group": "歌星金曲",
+      "url_sha256": "d932cf3959164517a6405e28810515bf4dfc101f6e0f004d68dcb2e58990b47f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-鱼和水的故事",
+      "group": "歌星金曲",
+      "url_sha256": "d3c499eaac1c8f61fc1046c80ae9a080f4d22deb67e982c57d3e45e73001d062",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-一生的等待",
+      "group": "歌星金曲",
+      "url_sha256": "2e0670a2cbeeef29dc7d0e2305a454c0303c9cf7a3c29f35c44afa92a5e4015d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-一辈子的真爱",
+      "group": "歌星金曲",
+      "url_sha256": "5ddb8f4c6e89d101de476ab7b9e79833948bfef28fc11143ae569dd6c8978ae4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-红尘永相伴",
+      "group": "歌星金曲",
+      "url_sha256": "75cd34674fd7a78980406b961328bd1c0b130a061e1d5af7d0681ebd8df998d9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-分手了别来打扰我",
+      "group": "歌星金曲",
+      "url_sha256": "b729c3fac0067382fc290d04b801572bb096a47d7ca83bea90698ee1ff1ee4dd",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-曾經是我的最爱的女人",
+      "group": "歌星金曲",
+      "url_sha256": "17068c877f97cd55e3f62b1d7b3003b49255f6dc0ac22a3db85d2337ee778ea2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-烛光里的妈妈",
+      "group": "歌星金曲",
+      "url_sha256": "9766b948732cb6ee872013d483882ef3116367e48a0c5d193201c28e436d549f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-别思",
+      "group": "歌星金曲",
+      "url_sha256": "82c7e15e3ad5c319801dfe03e09212e3924fa77cd7a20323811be170f3db4e4f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-天长地久",
+      "group": "歌星金曲",
+      "url_sha256": "9a0de75102a81f3f04134302f56a09b7ff1a6af7b6acdb1bd8b84779a3c56d04",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈瑞-心中的牵挂",
+      "group": "歌星金曲",
+      "url_sha256": "f4348baea47a5709b77129de0b6a12eb16650214039bb9451217dab0e16a11f4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "龙梅子-都说",
+      "group": "歌星金曲",
+      "url_sha256": "282de15bd096355e8eee45ba6577eee7f2c1a30aece816c49deb8e19445ca880",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "一砖一瓦-杨哲",
+      "group": "歌星金曲",
+      "url_sha256": "8084dc09e093f7cba3e006be043fde6d385a530665f212a53d43edb4693986df",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "雨中相思-龙千玉",
+      "group": "歌星金曲",
+      "url_sha256": "5081b48d1fa6e0ec622f13c15632411e3eb9c8903bdb9688d684403acf5c594e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "月光瞑-蔡秋凤",
+      "group": "歌星金曲",
+      "url_sha256": "fbdf3d77a4b2bcd10ccb2a2c35b2ce67f36f9ce77d589def56fdbe0d92e9bc83",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "梦中情人-林乔安",
+      "group": "歌星金曲",
+      "url_sha256": "f67626cc02956f0b547fcae1418a79d7295a531cbb0f082467c0cd6a84e32375",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "一句再会-陈思安",
+      "group": "歌星金曲",
+      "url_sha256": "9637cbc1ae786f717e27bfe57268ed8988f585981cfc3c1143120244169b4a14",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "王彩華爱情的骗子我问你",
+      "group": "歌星金曲",
+      "url_sha256": "1c9cb9bb4e6eaa30b5b2985a224e3c1bd6be0469f8d119dfd9b6873b163fcb95",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "蔡丽津月圆情",
+      "group": "歌星金曲",
+      "url_sha256": "e8b401630ba053aef2978aa5a73004033ad032c8ed393ae53a67c793a121eab7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈小云爱人跟人走",
+      "group": "歌星金曲",
+      "url_sha256": "0056f3a41662f954ae98de470377ef401bce7850f02639ad3d22e990d3ef8913",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "江蕙梦中的情话",
+      "group": "歌星金曲",
+      "url_sha256": "8699538eecfcc48173cee0fc00207ba5b191834eff49d029081b2066b4fbc3ef",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "小凤凤爱情一阵风",
+      "group": "歌星金曲",
+      "url_sha256": "469e3485440c98599d69911c6e4ffef61dfeb87cffada5cb4df38747894ee061",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "张秀卿车站",
+      "group": "歌星金曲",
+      "url_sha256": "102309d3aedad2ee715edbb989ac10137e5eca0be844e2b04563f44748901b95",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "龙飘飘 歌声恋情",
+      "group": "歌星金曲",
+      "url_sha256": "990a1cff643e458f2ee12fd90683afff9f218f0f5b975e3226f01900fca45540",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈百潭初恋[848*480]",
+      "group": "歌星金曲",
+      "url_sha256": "00c2ed71adff4d25cf4905c50fcbdf5b2fa1050d8c8f98b7342274b8195538f7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈淑苹黄昏之恋[848*480]",
+      "group": "歌星金曲",
+      "url_sha256": "e8fac681df08b8c32042e54bb53605a342f2f6f5650ce2314aade116999af8d3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈淑苹离家",
+      "group": "歌星金曲",
+      "url_sha256": "1f3b8133bda3000892fde1f7858e291f451ef7358689c15406fa9d9b4a9ce002",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陈淑苹我的伤心谁人知",
+      "group": "歌星金曲",
+      "url_sha256": "a9df316b18368eefcd58f7628db9281b5673f19ced0eed8bd896bbb81ba242c8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "姜玉阳-刻骨的温柔[688*464]",
+      "group": "歌星金曲",
+      "url_sha256": "21797c031fb576369e939a90cc09003c73da1b7cc04711fc86832b4811de97db",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 149,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰爱那么痛",
+      "group": "歌星金曲",
+      "url_sha256": "a69b456829d46a9e53b564473af9630fdf780dbfc01992ded43ec6d7374ca802",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰爱情的路",
+      "group": "歌星金曲",
+      "url_sha256": "1d0cee041c1bd9b115dd93361e019a0907a1ac4cde2f8a79b53291b06ce208fb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰擦掉彼句我爱你[768*432]",
+      "group": "歌星金曲",
+      "url_sha256": "749d1f8af813c014ccbbfb112a38eb92bb3ec945ee7e4e28ef9016f1110a792d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰男人的汗[848*480]",
+      "group": "歌星金曲",
+      "url_sha256": "d279d2edbe71b1a3415d37f91d59e471500563ed393860b7848d9db476e37d78",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰无情之梦",
+      "group": "歌星金曲",
+      "url_sha256": "df70ef5a09587b13a57d08038aeafef19a8fd70bc67fd570625e5ef076eae857",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰心事",
+      "group": "歌星金曲",
+      "url_sha256": "9a7459e30254175036bbdd802a0ca7782a5a8b6647258f9dccf9f72996824c3f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "罗时丰一定要成功",
+      "group": "歌星金曲",
+      "url_sha256": "14a05bc23dad6191e497e9e812d7780bb2b3bc154e54cddec09c29f617501203",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "毛不易 Ⅰ 借",
+      "group": "歌星金曲",
+      "url_sha256": "11c22979862d2c3ce5c3e490691aeb04996cc871d9f7a77e6c335492b364b586",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "热火斯卡拉",
+      "group": "DJ音乐",
+      "url_sha256": "a4c17b860e3ece58d24b7341746fe3af9ef8399f44c517b54041b788819e97a5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "怒击摇",
+      "group": "DJ音乐",
+      "url_sha256": "7dd551726f8fe82f4f822b702376f5aa7d1d47430aba58dee9ff8b416cd50a63",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新送情郎",
+      "group": "DJ音乐",
+      "url_sha256": "e92f14ac0036a7c421198bf3720fc8248b64db42c1c73a37fc7c36ca2292cde1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "震撼纯电音Drown",
+      "group": "DJ音乐",
+      "url_sha256": "192aa357a72dc71fe4c9caeae08f319b5b97adaf1c8b4cdcba25af3bc9406a89",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "送给未来的你",
+      "group": "DJ音乐",
+      "url_sha256": "4104a57f995e1d8902b4b9ec4cf7ff943986e908953fe7433aa5fa34a281a367",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "模特DJ",
+      "group": "DJ音乐",
+      "url_sha256": "bf3cf1ba91655d1925c9ee80711ee4bc812548f53757ee5152d0a1ae78a09aef",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "21年DJ爆红网络洗脑神曲",
+      "group": "DJ音乐",
+      "url_sha256": "21fdb1574af149da0b7da157f5b4695d52c41a24dae04bd412c454aee996988f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "劲爆DJ串烧",
+      "group": "DJ音乐",
+      "url_sha256": "931a4f6cc8b7e02a1a323bb2de6208a18eca324185ba198e73918d464bb77e64",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "今日热歌DJ《如果爱还在》《A8回心转意》《爱到最后就是痛》",
+      "group": "DJ音乐",
+      "url_sha256": "14a157c097e26858c89f5279133dfc143d1293b16f9d8205735bc15cf8066534",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "推荐9首DJ舞曲_首首甜美醉人",
+      "group": "DJ音乐",
+      "url_sha256": "74512297a2d03ae9a63becbe532d8c17cf2892d98e9e8b01a9c0f1fcc5bdc280",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "动感DJ《苦了累了听听歌》",
+      "group": "DJ音乐",
+      "url_sha256": "8f34f8241c7038698bb9447ec54afa8801f99abc2a3edf5855b858fc0f8f3777",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "车载必备DJ《殇雪》《潮湿的心》《酒醉的蝴蝶》《多年以后》",
+      "group": "DJ音乐",
+      "url_sha256": "96472d4c9d55200bc195965c523a07216319f304f0dada5c73a08c6af721c32f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ《心在跳情在烧》",
+      "group": "DJ音乐",
+      "url_sha256": "0f1f8b474203bef9ca570179dd4dbc41e1a2ae810aa75d47b8afb0fb9a5441cc",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "郭镐鸣《野摩托》",
+      "group": "DJ音乐",
+      "url_sha256": "25f556c933e72c7fb03cb29f60390db32742e1f4740426a0177ac5858cd12380",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "赵蕾蕾《寂寞的城伤心的人》",
+      "group": "DJ音乐",
+      "url_sha256": "882e256069280f2f5eee2bc8915beeedd463a8769e4c5a8b472bb2f0a295507a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "叶筱萱《爱到最后是孤独》",
+      "group": "DJ音乐",
+      "url_sha256": "4b4692dafab865198eb3d2ab3ccd5ed22f2b1a98d0b0e06e79f73f1ba990b845",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "海来阿木《浪子心》DJ沈念版",
+      "group": "DJ音乐",
+      "url_sha256": "2a01ed95665a284fd14914a9a0f18e23adfdef99e0883c1b7dc005309ec419d8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《人间惊鸿客》",
+      "group": "DJ音乐",
+      "url_sha256": "94a6f40871f5357288c9199f4af121553352728f125c93ee56274e65aff6e4a9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ版《望爱却步》",
+      "group": "DJ音乐",
+      "url_sha256": "e4704d9ce8c8653ed4c2f0a087458b2838395cf9d948fa6218085e1374108e10",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《唱着情歌流着泪》",
+      "group": "DJ音乐",
+      "url_sha256": "0f06884ee696a1edc12ce6e68b24c6951114013fc8b4f13cdfd3500726b80bd1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ版《一个人挺好》",
+      "group": "DJ音乐",
+      "url_sha256": "c5d583782043b61c11354c7de1459a840fd6da6ac58dcf10ae0811189fc556b1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《爱你到最后一刻》",
+      "group": "DJ音乐",
+      "url_sha256": "9f651ab2ce1acd9bd272cbb4816e563f549ad6b47c6417357ca0bf732e648d7c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "伤感DJ《等》",
+      "group": "DJ音乐",
+      "url_sha256": "574430425cc82bb65fe8b9f800654ffa2a2abd94fab1ee1b93126f63e14fe0dd",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ《我们不再是从前》",
+      "group": "DJ音乐",
+      "url_sha256": "aee7f2a153e696de589397341af3d6a591ade0390390a0d785ccc1148748be9d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ版《时间会知道你好不好》",
+      "group": "DJ音乐",
+      "url_sha256": "5f60a21657fd9c32f6a98cf92f261cf0a89d78144de57024e6de4c839a6438ec",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ版《爱不得忘不舍》",
+      "group": "DJ音乐",
+      "url_sha256": "6059664b5259ce0cee898394ba4e65ce9160789886a5138087d4e5cf9166068b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ版《蜜雪冰城》",
+      "group": "DJ音乐",
+      "url_sha256": "23df1d0fbfdbbc1788776bf5b06f954c3905907b4f035956bad8bc5de29ae5e9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《无味》DJ版",
+      "group": "DJ音乐",
+      "url_sha256": "4d202224c4135e50ab14ea0f86581dc79cc023bb59a441da42cf865192f21730",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ版《原谅你的谎》",
+      "group": "DJ音乐",
+      "url_sha256": "f26bec08e4a2fd18e1384d4f8197f2f1c8e2274bef3d806188e1ff3138e0636b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ《等爱》",
+      "group": "DJ音乐",
+      "url_sha256": "2e9c6bbbac9d8d5af0bd8bbc18587b6ee0d8d2f84e8432887817fc1bda26da81",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ《醉过多少回》",
+      "group": "DJ音乐",
+      "url_sha256": "97ccad7ed9e0f65f23fa57c631144afad6827b50676ed5d92aa71d9e0e7f997d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ情歌《爱情迷了路》",
+      "group": "DJ音乐",
+      "url_sha256": "f9e508d4774701e9f3ff108320e6133ad2eba7786a3d0ec9c4fff148340fc410",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ流浪兄弟",
+      "group": "DJ音乐",
+      "url_sha256": "0e999dd112846dc807ff04bf76d22e27a43cd47d967bf42a5f06a2fc9f0e2b1a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "车载DJ《多年以后》",
+      "group": "DJ音乐",
+      "url_sha256": "e7f8ca7cd0e0998bf1d3b7609291c97a6b4a6876bc6bcabf380c179988c2218c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "经典老歌DJ舞曲七首",
+      "group": "DJ音乐",
+      "url_sha256": "905ad33468b9a98a1df3abdccfc59c4fd3333147a3a41d081f2a632b2b90cc99",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "精选五首DJ男声串烧",
+      "group": "DJ音乐",
+      "url_sha256": "65009b74372179cf55b9e2a2b7af4498bda798700b927588478ccbed55970302",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "韩可可《错位时空》DJ版",
+      "group": "DJ音乐",
+      "url_sha256": "35885808c891641e71e2c9a3958912fd50f27797b93407d3443ef8d4dccba08e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "忘记你需要多久(DJ小鱼儿版)",
+      "group": "DJ音乐",
+      "url_sha256": "df8b93cb6a3edc1ee50ead68d60d96fc4d0972a756354c7521c9fa8095551202",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "车载DJ《今夜为你醉...》",
+      "group": "DJ音乐",
+      "url_sha256": "a156d48a6ae6e3944b182041c99a622f86b40d4d38a7b91f6d0b5667a12b5a7d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "抖音热歌《大风吹+夜夜夜漫长》",
+      "group": "DJ音乐",
+      "url_sha256": "c15910e7813ca655d61b6581eb349a25f4b91601956c5393706c1ab8ce06d945",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021年最好听的DJ串烧",
+      "group": "DJ音乐",
+      "url_sha256": "7f6de1986b03c5444f75152e081916f92883584565ce3345771cf6982977b87f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 124,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021年最火伤感音乐",
+      "group": "DJ音乐",
+      "url_sha256": "1dc0450a10685a9136dff60b0d71a0e1f10c68cb560eef1dd640475a7e9654f1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021年网络火爆伤感情歌6首",
+      "group": "DJ音乐",
+      "url_sha256": "d8a675e3941559aed050e896455dc5deae9b045b0980882072b289b4c5ff3501",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021热门伤感DJ",
+      "group": "DJ音乐",
+      "url_sha256": "dd9c9f17cdeb863cd7c47cc3b498950876febb3a0befed65198abbfbbaee0c80",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "几首比较火的DJ情歌",
+      "group": "DJ音乐",
+      "url_sha256": "6744f487ac970e6d417163c4f91df294f6f8cd9afe44a9eeaf69546a47e69911",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《爱难求情难断…》",
+      "group": "DJ音乐",
+      "url_sha256": "a6707296605d7f9124483daf4c727b580bc0cb2cdd0a8dbb1303fa48c5bc7b36",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "花都开了你来不来DJ",
+      "group": "DJ音乐",
+      "url_sha256": "ecccf95eb5c6a036c9e8f8e5f0bcf805546d322a7a00e495ddaeed2455089393",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "动感超人dj",
+      "group": "DJ音乐",
+      "url_sha256": "1992c922ddeb3c58456e7e2197b6d0097ec98a9ffd85a36078bd9efc2265f845",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "野花香dj",
+      "group": "DJ音乐",
+      "url_sha256": "bb10a01f9d02eefee0fbf077954f18dfae700bef76267ee9f825368ae485070a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "精选dj",
+      "group": "DJ音乐",
+      "url_sha256": "8ce40d2e5695ec5acb8f56ba3e89478fb33ae9e8b47b33539557b65f48ae50b3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "伤感情歌DJ",
+      "group": "DJ音乐",
+      "url_sha256": "756be3bf7d1aeec755cb9af2393ec1d97405bff703bcf2aeb95b606101881388",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ情歌",
+      "group": "DJ音乐",
+      "url_sha256": "e4967fae11afa995efe60a5c8d6af84186b5ce660f86b446be875f8b5ebc3b04",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新情歌DJ",
+      "group": "DJ音乐",
+      "url_sha256": "f3d6ad930b20d1ba64b8d22112ddeece702add5881cbe241b5f680cb3cb9e45f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "爱情情歌dj网",
+      "group": "DJ音乐",
+      "url_sha256": "f8c9b1ae4bd3fd5f131ebf589b9b8d7716da8e54fdfb904f8005bc8b69a6f3de",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "绝美情歌dj",
+      "group": "DJ音乐",
+      "url_sha256": "9905d2b67ab87c1780e26b701a928f2863b4d44a647835f47c685c8b699565ec",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "酒吧舞女",
+      "group": "DJ音乐",
+      "url_sha256": "851288d339ddee51e7103afac6f829b73f32aaacd43e6a2d9077b22c7a753cc1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "劲爆舞曲DJ",
+      "group": "DJ音乐",
+      "url_sha256": "4050da51ad633ade00ab81968db57dca9ebba76d956f3978fd32b4c5ea74b296",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "慢摇dj舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "b77733f6e1a5e685ac0ea2aa42bea7718d47ae8ab56a9bb3841e6ff8cbd1b95d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "男神dj舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "65f0463110a574640499ed2de830cfd2d02885be5f338c5ac6046046af2a1d33",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "韩国女团dj",
+      "group": "DJ音乐",
+      "url_sha256": "83c2cfae3c493a9eda2da1a58c0e262431dc7d46d34dc31649773194d7a20508",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "七星酒吧舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "dac6a4f0dfd5497a3dd9ea5cee3ed20d5d0cdb24447cad8e32c73031931b2807",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "dj舞曲女人版",
+      "group": "DJ音乐",
+      "url_sha256": "1d21fa71c348fe2943be74f917395981a8e85514c9d5fec3ded8638b09898b7e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "眉飞色舞dj舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "3a9cbb09638574257a90c19d0035b86a7a5953444475188c9a5a23bd6d961fde",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "情歌DJ合集",
+      "group": "DJ音乐",
+      "url_sha256": "e002a8e22dd57d1adf461d526fe34c376968c0e6919bd7bd85f2e97e1b6a0df8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "四海舞曲dj",
+      "group": "DJ音乐",
+      "url_sha256": "6f8d79ba1dc78bce335f75746b0cc9dfc1f7d3eef0b38c2dfa5f9e06f27235d4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新世纪舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "a03455e9d0ad6ad7bd4f58422c48bf749469ab8a194e9d46bd778dd837f71064",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "dj舞曲交流",
+      "group": "DJ音乐",
+      "url_sha256": "46738314977635c269f36762de60c92a52511d7f14dcf64a9fb93341ac00b6cd",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "干就完了",
+      "group": "DJ音乐",
+      "url_sha256": "df4ce80883674cb457e29fd4fbdab36ac094c0359aa205112cb183de13b4ad52",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "金典老歌合集dj",
+      "group": "DJ音乐",
+      "url_sha256": "e301c986aed3b91a36ffe82fab4057d651e22b596be8b53ab92ce2b4864a9cc6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "学生dj舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "3dac3cc8b96912d00a18f66d056e428edb7cc703b17793d6f5a4c60a5fe00c83",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "日韩舞曲DJ",
+      "group": "DJ音乐",
+      "url_sha256": "fa377268923cdcf97c97f83a29d6cab323cf6aee00e1de46fd5505f7ffdd5c99",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "国际舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "9fa0506b77608196d5bfccf8e5064c50ebf651fca32ad13f4631787cd3247f2c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "dj舞曲合集",
+      "group": "DJ音乐",
+      "url_sha256": "542e9b49fc0ad65d797ab293326116cb2272aeef7bd9fa8c0ac6ec67635e869e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "dj舞曲金典",
+      "group": "DJ音乐",
+      "url_sha256": "0dd91d8a9ba3e3ca2afd802530ee383c0e0d2ed9359cf5ffeaa97a0a98a1b1c3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "车载DJ舞曲《大风吹》《浪子闲话》《玛尼情歌》《沙漠骆驼》",
+      "group": "DJ音乐",
+      "url_sha256": "fe287d0c392dde694f090b022a9b3d23036b16fcb3247269abc3f5b36cdab412",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《拈花一笑》《对面的小姐姐》《想你了小哥哥》《一朵情花开》",
+      "group": "DJ音乐",
+      "url_sha256": "f834e2605123ea516e1a5cdb5cf1b01206cece7992e2171b5cb3911cacb5fe57",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 117,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 117,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "情歌DJ《拈花一笑》《对面的小姐姐》《酒醉的蝴蝶》",
+      "group": "DJ音乐",
+      "url_sha256": "7bc93508cc9d93ddbd80c944bb2f3d5e8a387c744beaf820f9e1525f980b281a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《天路》《驼铃》《鸿雁》《九儿》《绒花》《小芳》",
+      "group": "DJ音乐",
+      "url_sha256": "ecab1f707b51693268e4476648d4f41b72226ee7005556dda8c03ac8ab246e9b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《驼铃》《卓玛》《天边》《鸿雁》《天路》草原歌曲",
+      "group": "DJ音乐",
+      "url_sha256": "042d3eddf55c27a7ce8d978b1cd9714ab1c22ce213a7d7799201270794dcdfa6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "毛宁《涛声依旧》《晚秋》《心雨》《春风吻上我的脸》《大中国》",
+      "group": "DJ音乐",
+      "url_sha256": "405225150ae6eb6cedf72c0fbd99f79e3866864443c131cd796f491c40daa9f8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "山歌《阿里山的姑娘》《康定情歌》《山路十八弯》《敖包相会》",
+      "group": "DJ音乐",
+      "url_sha256": "6eb240b682e1fb6149f24d5c736601424665399e777ef5385eba3befdf78c41e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《涛声依旧》《雾里看花》《窗外》《心雨》《听心》《晚秋》《母亲》",
+      "group": "DJ音乐",
+      "url_sha256": "60f163d838a4ca25624259cb2c7eb3dcef46c361bef4831360e6094127dd8994",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "张也《望星空/为了谁/人间第一情/红梅赞/高天上流云》",
+      "group": "DJ音乐",
+      "url_sha256": "cd1c3cdb71756f346702339945a36d794af9e2b3198d15b96ef9aff31b005d28",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "降央卓玛：这几首歌曲太动听",
+      "group": "DJ音乐",
+      "url_sha256": "e32f01acaa9d4b8fc026a8247675737f0cdae82c02514e4727533b9a6da5501b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "【老歌DJ版】《精选8首》",
+      "group": "DJ音乐",
+      "url_sha256": "7590f6f07d57bb2f90cf630fb24aa3fb5499a349a3b48cde29bc9f665bde9982",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021一夜火爆几首DJ舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "14fe69f004a9b3895f8ac4545c8a11215fdefde25b93d13d6f040eb47cfe7b67",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021《精选5首酒吧DJ舞曲》",
+      "group": "DJ音乐",
+      "url_sha256": "3fdeca7e849c1828542de8c9948666e9d889bb90b3ab486ab59b512c8bb881d5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "让人陶醉的几首DJ舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "9ffd5ce4f4bf9f4c0748a0091eec5db61e108a0ed2673e640e140127ec72a23d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "最新dj",
+      "group": "DJ音乐",
+      "url_sha256": "0064cc6d155127f51c4f1411ad39f475e6affc230f595c3460f42461b599a2b2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "一点泪水dj",
+      "group": "DJ音乐",
+      "url_sha256": "0ef314e0669d162d0e0da875b1ca1bd621f2b9d6c2e65524dacdb9be3f2a4dec",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "dj舞曲英雄泪",
+      "group": "DJ音乐",
+      "url_sha256": "a835b3ca6deb9af7707da8d331000b7fe33536798f73a6660a37939a4afb2371",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "爱江山更爱美人金典",
+      "group": "DJ音乐",
+      "url_sha256": "171aa7c7bc8ec9f53e486ff9fadbe42e9730d3be6f315b5e8308c79ba58335aa",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "舞曲视频",
+      "group": "DJ音乐",
+      "url_sha256": "ba45a19f05c99d4ad276aae9b13717821c00f65a004e4de3d634431eeff1da2d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "今夜回望dj",
+      "group": "DJ音乐",
+      "url_sha256": "9668583006532affd63ca4727bc64523be247357d075bf211eba4cef9bb0fc57",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "小鱼授权",
+      "group": "DJ音乐",
+      "url_sha256": "3bab3e81dfd5dcb3c4939a48eecf4adcf45d4851b44033805c06e2acfdace9b7",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "舞曲视频1",
+      "group": "DJ音乐",
+      "url_sha256": "fc8540c03eda3406693480235962b219a96d65474f0e8027526b8591b298736a",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "舞曲视频4",
+      "group": "DJ音乐",
+      "url_sha256": "e8577fcab23edad26b594445c345296ccc74ae1781aad4f7d245c4bc69dc2f98",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "车震一小时",
+      "group": "DJ音乐",
+      "url_sha256": "43bab80685a315ec72b45b64fc0b300c52148df5e0f4b146991af57b41846511",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "车载DJ视频6",
+      "group": "DJ音乐",
+      "url_sha256": "1c9131bc514220d23bbe4436f1d6ef945b8a2a607c17a47e4ac4c7430bba4b82",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "好歌分享《精选6首伤感DJ舞曲》HD",
+      "group": "DJ音乐",
+      "url_sha256": "1c4de5f19a10ba5823efcee3047481f28aec272d12d646afa6b950c4fcd7ed16",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021爆红《6首女生版伤感DJ》HD",
+      "group": "DJ音乐",
+      "url_sha256": "2ef28e302fe1140764dbd053f22fc0fdf97cddff0e63d01495435ea3d0536555",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021五首女声伤感DJ情歌精品HD",
+      "group": "DJ音乐",
+      "url_sha256": "58cbec4096ac78538130723824562b8697cc59f66b74204788883f299fb21bc6",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "情歌DJ《怎么可以如此冷血》《为爱受尽相思罪》HD",
+      "group": "DJ音乐",
+      "url_sha256": "d975df65d02736d54b4e677302df100d8c57e9378b188db301ec21b5d826e0e1",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 119,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 119,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ劲爆舞曲《在我心里有个你》《东南西北风》《一万个对不起》等HD",
+      "group": "DJ音乐",
+      "url_sha256": "b4f3aa3e4b52fad7e406ded8b917d81d35a60db2e3e6bb52d71a3767dbe6c8bc",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ情歌串烧《痴情恋歌》《红颜知己》《事与愿违》《缘分相遇》HD",
+      "group": "DJ音乐",
+      "url_sha256": "89dd164d229d332176fdb5579a1c12bff7afd9b9216f8c7ce3b82f7b87f2e35e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 121,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "动听DJ情歌《红颜知己》《今夜为你醉》《别忘了我在等你》等HD",
+      "group": "DJ音乐",
+      "url_sha256": "17e2788ba01812db337e7141de3392bcbed0e86280ceb0c1e3ac44de20fe2c81",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念歌》HD",
+      "group": "DJ音乐",
+      "url_sha256": "1d8dcb7a06f231d602f02be3c620c71f1f7506fa06e5870b2d778affa558f5a8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD",
+      "group": "DJ音乐",
+      "url_sha256": "a3d5f9cbeaa214d8c3ff39392365aa078458ff2b676f6bd8f200e5bd95540810",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《来生再去拥抱你》《梨花飞情人泪》《落雨的秋》《梦醉荷塘》HD",
+      "group": "DJ音乐",
+      "url_sha256": "fc463aaa095383dd37fa1b288f651a61ca9429516abbeb064816a3b35b622092",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "宇宁《千里江山（大型纪录片《紫禁城》主题歌HD",
+      "group": "DJ音乐",
+      "url_sha256": "4e5067257bfef26b394036336c5dd95a3eb259a1c90fde50606730086c7acd44",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 123,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021最佳伤感情歌HD",
+      "group": "DJ音乐",
+      "url_sha256": "0c375817b841e7feb5f1a21258873b4019710e535b7aacd432bd69c772e3eb1f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021伤感洗脑神曲HD",
+      "group": "DJ音乐",
+      "url_sha256": "a0c0e6a66cde94db96c62296b63677ee546b298cf4d24a875499e7c57df8e9b9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2021最好听情歌HD",
+      "group": "DJ音乐",
+      "url_sha256": "bef507ca6abf26f02407c4f73fc8d3da5fe4f2ffe2d6af04ace1158d4bf82cdf",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "经典粤语歌曲《上海滩》《铁血丹心》《神情神话》《沧海一声笑》HD",
+      "group": "DJ音乐",
+      "url_sha256": "ee64dfe78f10b3d15dc8b7c7f7efdbf55bda04c5a2a03bb1fe63c2f6746ab267",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 122,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "苍天不负有情人",
+      "group": "DJ音乐",
+      "url_sha256": "98a3ae68ead960d26f788a1e86e3e73e5001031ce54e8903a8919be6c08e863d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "4k超清车载劲爆",
+      "group": "DJ音乐",
+      "url_sha256": "2eff6eaa1fd526b4886d9f2c1f51e05213e742edf77cf98c1b575c13d449dc90",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "经典dj《站台》",
+      "group": "DJ音乐",
+      "url_sha256": "bbabfac284e9d711b929adb142c86e8477e4aa7f1a2d30a7ef23aa6302c066bb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "东南西北风DJ",
+      "group": "DJ音乐",
+      "url_sha256": "71a481d6574f7163e7f1a5cd9ca68480000e70f84ce579113fca7e00c00c285d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2022伤感DJ串烧dj",
+      "group": "DJ音乐",
+      "url_sha256": "cc7fea9e1400db71eca126d2a142c1b63d7ba619bb3628f822c7433cd69950f3",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "还没有爱够DJ",
+      "group": "DJ音乐",
+      "url_sha256": "f23395c54ed5830dc440c98b56aa3cdc5554105819ba5af21c6b76bad2dbab0b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "花儿笑了DJ",
+      "group": "DJ音乐",
+      "url_sha256": "0d98c19abff90959122f92f86f8d888876eaa69ae19230154802ce8636179ffa",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "打工辛酸泪DJ2首",
+      "group": "DJ音乐",
+      "url_sha256": "70f4160b01ad0f1bb517c769e36c10c9ececee58084cf6e344a95928b52ce4e8",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "都是兄弟DJ",
+      "group": "DJ音乐",
+      "url_sha256": "54e1382eb30ecb2bea1075f07df3f62c1d4bb36cdd71a2f57d4fac57b26f4f19",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "只能拼自己DJ人不可貌相",
+      "group": "DJ音乐",
+      "url_sha256": "2f375d8a575428ec5f150fad057afb0d9c9ab4a1d4908e49edf6ef286a396ceb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "dj新歌句句在理",
+      "group": "DJ音乐",
+      "url_sha256": "243888dba1eb810142cc01b331279465bb9f6a82e90301729bc0dd1aedb1eb23",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新歌上线7首",
+      "group": "DJ音乐",
+      "url_sha256": "1ac93d3d6a22b54f4f38119182a43c0d59664aeae2ec29efef5901ecb5c977a2",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "北方姑娘",
+      "group": "DJ音乐",
+      "url_sha256": "29a9b2bf36e9102ab49f3dd1f5d71116308dc3ee3826e2fcbd7ec4ba5ad4d6eb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "一生输给了爱情",
+      "group": "DJ音乐",
+      "url_sha256": "d9cb3794fbbf6b4fba1978714121123ce925b2dbb3b62399b7fe64ba0de4a951",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "酒吧慢摇DJ舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "d833b3229566b728fa0b083d5f614a0f12e55847cde6972b7f7885b26be3169c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "这首新歌_一听就上瘾",
+      "group": "DJ音乐",
+      "url_sha256": "4c2b411462b2138efcb4545205e10b2ce98eb7e01250dc75105e0a262e67c06e",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新歌上线_啥歌这么好听",
+      "group": "DJ音乐",
+      "url_sha256": "23f037d0ee29ac3f6f124681fa7afb7817e890feb84a0ea778e4bf85be0a7bc9",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《女人的心声》",
+      "group": "DJ音乐",
+      "url_sha256": "367b81f0b471b63804bd9d368fa09cd94efd7541250251cce054034de526ed4c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "负心的你",
+      "group": "DJ音乐",
+      "url_sha256": "de0d0ac1ccce989304c392516c207eec9c0a734d5afb1bcabd9c0711ca526a7f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "初恋的人",
+      "group": "DJ音乐",
+      "url_sha256": "28a1195308b8e7497f87856eb2ac7979e361893c4e00755fe0649be83009f0bc",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "初恋情人",
+      "group": "DJ音乐",
+      "url_sha256": "ca68c10eacdcf88f5b09c2af021c645b157254380972163193d2aca216b7b993",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "爱情一阵风",
+      "group": "DJ音乐",
+      "url_sha256": "1a655307da3c4c61be4a52c81c90120b77ef9f30ec4a124b744ceed8f9c94a8b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "林翠萍-情网",
+      "group": "DJ音乐",
+      "url_sha256": "d1e840e6cfe939211a20b1eeae11cf3be59e564690d58ab768e44fdcdff03c90",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "爱情的骗子我问你",
+      "group": "DJ音乐",
+      "url_sha256": "f5b14d7b9b8553f8a85eee1e3dc88941364e38c3bfcefb629e39757ebdd7b347",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "我用自己的方式爱你",
+      "group": "DJ音乐",
+      "url_sha256": "e8d6e3e44a1baa1ff7f53c7123a999920b710b11423ab0e24aeaaa89e6b237bc",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "无奈的思绪",
+      "group": "DJ音乐",
+      "url_sha256": "c555d63cb837afa87834cd13782286abbe007fecbc41cf54ab95e53b622ba69d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "点燃一根烟",
+      "group": "DJ音乐",
+      "url_sha256": "f000d3b047e5ec5b895663e816ad81a432f87996fa5fa3ac81cb1e321f9b06bb",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "今生最美的遇见",
+      "group": "DJ音乐",
+      "url_sha256": "a55c9c3466f031f473af6cd46da77079891e4aee15791846b9ac3874d825d46b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "多彩的哈达",
+      "group": "DJ音乐",
+      "url_sha256": "c71eaf793d6e67363ae893d76774396607b7f43e2b115521418078761a1b9681",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "陕北民间",
+      "group": "DJ音乐",
+      "url_sha256": "32e4741c0daafea41470fe57f7d5ba89b1693b5a22d059d7a4a15f39fa7c72a5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 150,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "情歌DJ舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "800abc7faa3b93702b014566d7eaa4ac7e56a13c3bb2cd8aac528457ee860fbe",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "9首醉人的情歌",
+      "group": "DJ音乐",
+      "url_sha256": "4e43b410974601b8b2bad49c24f29dbea86f8bc4ebd7b30defb128e926d43462",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "韩宝仪《情人桥》",
+      "group": "DJ音乐",
+      "url_sha256": "da3f7467538bb8cb128dec647c464cf4ec6cc9514d239b2c4abece7bed37635f",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "韩宝仪无聊的游戏",
+      "group": "DJ音乐",
+      "url_sha256": "3dc1a539f7d55737c2f75c9072e6ff1aa9d672e9432af470b49f71dd408aca58",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "高清舞曲",
+      "group": "DJ音乐",
+      "url_sha256": "4ebc42e6bf276d635a022dd68e788d157eafa4a1e622ab7a75371eef17f18adf",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 300,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 300,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "痴心是我犯的错",
+      "group": "DJ音乐",
+      "url_sha256": "87de839c7bc8794b51faf3b7abdbc2bbbe687f2e75b151717055c523b447231b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新歌",
+      "group": "DJ音乐",
+      "url_sha256": "a24cacfae00dc5588a2c53a17301e8269a5574f4c737a9de8f8b1e50f4a37414",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《好听情歌8首》",
+      "group": "DJ音乐",
+      "url_sha256": "0df16ed02a037d28166e73ff00cb05f852abbbd5eacf46c24a38f2ef2b1d4804",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ新歌上线",
+      "group": "DJ音乐",
+      "url_sha256": "f75aaeffb992b91828645c04a34f8c3958620e1a2076f7bf6654167d12881ccc",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ酱爆鱿鱼舞曲版》",
+      "group": "DJ音乐",
+      "url_sha256": "2dd83abb768bebfbf7af6331ede04779bd53886e8289f335585d18a57c2a93b4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "DJ给我一把爱情火",
+      "group": "DJ音乐",
+      "url_sha256": "f0979aa0c3ff01a149ea4d0f7164705a70519550493984d2fcc5b17b15f7f8e5",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "新歌上线",
+      "group": "DJ音乐",
+      "url_sha256": "9be8b2bfbd9c38ecbd97f714c8d185e7b0cda09f318f6e6ea3c60039892153ee",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "刀郎的西海情歌",
+      "group": "DJ音乐",
+      "url_sha256": "63633326be08cc5531fc25944199c99b6ef4238bb2f19df936e56660292a5dec",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "伤感DJ串烧为爱流泪",
+      "group": "DJ音乐",
+      "url_sha256": "0e80469932b78e67dfb31aabfba91da5974ef0341a98bf3ca0d9ee128c001317",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "林翠萍的《我太傻》",
+      "group": "DJ音乐",
+      "url_sha256": "c5a4405104275df173a2ae7e6785fb69e736d776d2fa4a8091c1ec7ef20b6616",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "伤心的眼泪",
+      "group": "DJ音乐",
+      "url_sha256": "795877c8325aaf89be470e71ff97b33fd5ddfe5b84ea2b1b73cad250a0c29110",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "《英雄泪》",
+      "group": "DJ音乐",
+      "url_sha256": "593817cb2976c6505a3696897d5c11d13bc40eeef9d2133aa1f6ad7c9d558366",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "2022几首DJ串烧",
+      "group": "DJ音乐",
+      "url_sha256": "e5dec8e6c5105d220718ae7b42b8bc823ab43415056a89badff2dc7c0a6bc3da",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 125,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浙江国际",
+      "group": "央视卫视IPV6",
+      "url_sha256": "d5a2abf23b8ecb5fdd9733f9cd432c1cd6a2fb03b5d3f769e02e62ef9739cec4",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浙江数码时代",
+      "group": "央视卫视IPV6",
+      "url_sha256": "a0362fa04a27cd92d9f5708bacf6b9b87fe4dcc2bc5c4867e792c1e642daa07b",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浙江民生休闲",
+      "group": "央视卫视IPV6",
+      "url_sha256": "7ed61953d3810fd8e7a83451b7c98530fd2ba1c683e14ee0a090a9841a48a8ae",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "浙江钱江频道",
+      "group": "央视卫视IPV6",
+      "url_sha256": "95fe30c11eb3b4804f6944ed50c6d3161bfcbb5856b09db965e43471cc13189c",
+      "attempts": [
+        {
+          "attempt": 1,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        },
+        {
+          "attempt": 2,
+          "exit_code": 0,
+          "frames": 120,
+          "errors": [],
+          "passed": true
+        }
+      ]
+    }
+  ]
+}
