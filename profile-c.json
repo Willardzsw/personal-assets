@@ -1208,6 +1208,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "jar": "https://raw.githubusercontent.com/Willardzsw/personal-assets/main/vendor/external/93fd4f873c3a/56d0b667615145949789418bff9f22a5.png.jar"
+    },
+    {
+      "key": "nbyy",
+      "name": "泥巴影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Willardzsw/personal-assets/source/xiongjian83/assets/c/nbyy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [

@@ -1,0 +1,182 @@
+{
+  "checked_at_utc": "2026-10-02T11:42:29.319812+00:00",
+  "site": "https://www.nbyy.cc",
+  "android_verified": false,
+  "scope": "Public catalog, search, movie and series samples; not the whole library.",
+  "catalog": {
+    "电影": {
+      "total": 86,
+      "pages": 4,
+      "first_page": 24,
+      "second_page": 24
+    },
+    "电视剧": {
+      "total": 88,
+      "pages": 4,
+      "first_page": 24,
+      "second_page": 24
+    },
+    "综艺": {
+      "total": 67,
+      "pages": 3,
+      "first_page": 24,
+      "second_page": 24
+    },
+    "动漫": {
+      "total": 52,
+      "pages": 3,
+      "first_page": 24,
+      "second_page": 24
+    }
+  },
+  "samples": [
+    {
+      "id": "332416311",
+      "title": "魔方小姐",
+      "flags": [
+        "自动",
+        "lzzy-1",
+        "lzzy-2",
+        "ffzy-1",
+        "wjzy2-1",
+        "snzy-1",
+        "yhzy-1",
+        "bfzy-1"
+      ],
+      "episodes_per_flag": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "attempts": [
+        {
+          "flag": "自动",
+          "url": "https://v.lz15uu.com/20260709/15436_3819dcb5/index.m3u8",
+          "checks": [
+            {
+              "exit_code": 0,
+              "frames": 148,
+              "errors": [],
+              "passed": true
+            },
+            {
+              "exit_code": 0,
+              "frames": 148,
+              "errors": [],
+              "passed": true
+            }
+          ],
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "325349206",
+      "title": "盗梦空间",
+      "flags": [
+        "自动",
+        "snzy-1",
+        "snzy-2"
+      ],
+      "episodes_per_flag": [
+        3,
+        3,
+        3
+      ],
+      "attempts": [
+        {
+          "flag": "自动",
+          "url": "https://v13.rstu6.com/202512/23/Q3BtXhb1s422/video/index.m3u8",
+          "checks": [
+            {
+              "exit_code": 0,
+              "frames": 124,
+              "errors": [],
+              "passed": true
+            },
+            {
+              "exit_code": 0,
+              "frames": 124,
+              "errors": [],
+              "passed": true
+            }
+          ],
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "id": "331859363",
+      "title": "魔方游戏之罪杀",
+      "flags": [
+        "自动",
+        "gszy-1",
+        "hnzy-1",
+        "xlzy-1",
+        "lzzy-1",
+        "ffzy-1",
+        "jyzy-1"
+      ],
+      "episodes_per_flag": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "attempts": [
+        {
+          "flag": "自动",
+          "url": "https://v.gsuus.com/play/YerL1qWb/index.m3u8",
+          "checks": [
+            {
+              "exit_code": 0,
+              "frames": 119,
+              "errors": [],
+              "passed": true
+            },
+            {
+              "exit_code": 0,
+              "frames": 119,
+              "errors": [],
+              "passed": true
+            }
+          ],
+          "passed": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "home_items": 24,
+  "search_items": 7,
+  "windows_client": {
+    "version": "0.7.0",
+    "home": true,
+    "search": true,
+    "playback": {
+      "catalog_items": 24,
+      "episodes": 24,
+      "parse": 0,
+      "media_host": "v.lz15uu.com",
+      "decoded_frames": 380,
+      "time_ms": 5309,
+      "passed": true
+    }
+  },
+  "series_episode_resolution": {
+    "first": true,
+    "second": true,
+    "last": true,
+    "note": "URLs resolved; only first episode decoded"
+  }
+}

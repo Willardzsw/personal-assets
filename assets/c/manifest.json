@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "profile-c.json",
-      "sha256": "818b937693b1a06dede6fde8e03d40baa5d530d04c48c53e14199af80ee8745c"
+      "sha256": "fd2f8545e1423c0434749248b1a2cdf7a097b522cff07cb9aa6c5d3f16f53149"
     },
     {
       "path": "profiles.json",
@@ -22,11 +22,23 @@
     },
     {
       "path": "PROFILE-C.md",
-      "sha256": "30183268c10ff1ca124a7d1d65f394ce2a218283014c7d392af62e49d02fcf12"
+      "sha256": "8202a519ad37d2fb3f195cff03231cb1a381240749f8ad00b70b1132d726c35f"
     },
     {
       "path": "assets/c/merge-a-audit.json",
       "sha256": "43de157107a0641296fa07bed7bf140d59c51951b044bad1948999799604e71a"
+    },
+    {
+      "path": "assets/c/nbyy.py",
+      "sha256": "8dc0658bc0ea40c15df31d81fe98871f259944b481f0900655240064a5d5fe35"
+    },
+    {
+      "path": "assets/c/nbyy-audit.json",
+      "sha256": "36a7d8508acffe2c800280fffbbc72ad8660ff6f21454f9e935c3773c2380f5a"
+    },
+    {
+      "path": "tools/audit_nbyy.py",
+      "sha256": "a61367eb475bd42aac8c7230123d0616ad831cfbe755d4cadb43844fd3de845e"
     }
   ]
 }
