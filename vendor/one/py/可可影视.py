@@ -96,7 +96,7 @@ class Spider(Spider):
 
                 # 备注
                 note = ''
-                bottom = item.find('.v-item-bottom span')
+                bottom = item.find('.v-item-bottom').find('span')
                 if bottom.length:
                     note = bottom.text().strip()
 
@@ -115,7 +115,7 @@ class Spider(Spider):
         result = {'list': [], 'parse': 0, 'jx': 0}
         page = int(pg) if pg else 1
         try:
-            url = f'{self.site}/channel/{tid}.html?page={page}'
+            url = f'{self.site}/show/{tid}-----3-{page}.html'
             r = self.session.get(url, timeout=15, verify=False)
             r.encoding = 'utf-8'
             doc = pq(r.text)
@@ -150,7 +150,7 @@ class Spider(Spider):
 
                 # 备注
                 note = ''
-                bottom = item.find('.v-item-bottom span')
+                bottom = item.find('.v-item-bottom').find('span')
                 if bottom.length:
                     note = bottom.text().strip()
 

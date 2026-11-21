@@ -44,7 +44,7 @@ http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
 http://173.208.212.130:8181/1080p/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789999200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-17a2626b5e7a7d91f2d762a90c06d3b9&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+http://173.208.212.130:8181/1080p/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://173.208.212.130:8181/1080p/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
@@ -228,7 +228,7 @@ http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.ifanr.dedyn.io/tv/天映经典.png" group-title="🏍️港澳台频道",天映经典
 http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.ifanr.dedyn.io/tv/天映经典.png" group-title="🏍️港澳台频道",天映经典
-http://free.cnlive.club/channel/n7e49c99a.m3u8
+https://cdn.qd.je/163189/ccm
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://logo.ifanr.dedyn.io/tv/纬来电影.png" group-title="🏍️港澳台频道",纬来电影
 http://free.cnlive.club/channel/581b458b.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://logo.ifanr.dedyn.io/tv/靖天戏剧.png" group-title="🏍️港澳台频道",靖天戏剧
@@ -340,7 +340,7 @@ http://173.208.212.130:8181/720p/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://logo.ifanr.dedyn.io/tv/第一剧场.png" group-title="💰付费频道",第一剧场
 http://107.150.60.122/live/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://logo.ifanr.dedyn.io/tv/第一剧场.png" group-title="💰付费频道",第一剧场
-https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
+http://107.150.60.122/live/dyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://logo.ifanr.dedyn.io/tv/风云剧场.png" group-title="💰付费频道",风云剧场
 http://173.208.212.130:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://logo.ifanr.dedyn.io/tv/风云剧场.png" group-title="💰付费频道",风云剧场
@@ -678,7 +678,7 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="余杭综合" tvg-logo="https://logo.ifanr.dedyn.io/tv/余杭综合.png" group-title="🚞浙江频道",余杭综合
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 #EXTINF:-1 tvg-name="余杭综合" tvg-logo="https://logo.ifanr.dedyn.io/tv/余杭综合.png" group-title="🚞浙江频道",余杭综合
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" tvg-logo="https://logo.ifanr.dedyn.io/tv/兰溪新闻综合.png" group-title="🚞浙江频道",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://logo.ifanr.dedyn.io/tv/嘉兴新闻综合.png" group-title="🚞浙江频道",嘉兴新闻综合

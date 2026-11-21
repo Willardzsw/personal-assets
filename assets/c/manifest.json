@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "profile-c.json",
-      "sha256": "fd2f8545e1423c0434749248b1a2cdf7a097b522cff07cb9aa6c5d3f16f53149"
+      "sha256": "8e2e54879351de5faa89fb6119d260b6ddbea4eaa27f376945021a96a5a164be"
     },
     {
       "path": "profiles.json",
@@ -10,7 +10,7 @@
     },
     {
       "path": "assets/c/channels.m3u",
-      "sha256": "a48c32f320f0a13467896c8bcb4e7da5628e618af853eb31dd4b5d91bedf1879"
+      "sha256": "35a11d0b80fd2638a80e94b016a25ed9b251a5161c44a78d693c6b679f3e518e"
     },
     {
       "path": "assets/c/audit.json",
@@ -22,7 +22,7 @@
     },
     {
       "path": "PROFILE-C.md",
-      "sha256": "8202a519ad37d2fb3f195cff03231cb1a381240749f8ad00b70b1132d726c35f"
+      "sha256": "7664d1b166200ad2888ab53d49d069d4a17ef2b5d97887016b2fea2d00e6a666"
     },
     {
       "path": "assets/c/merge-a-audit.json",
@@ -39,6 +39,22 @@
     {
       "path": "tools/audit_nbyy.py",
       "sha256": "a61367eb475bd42aac8c7230123d0616ad831cfbe755d4cadb43844fd3de845e"
+    },
+    {
+      "path": "assets/c/source-health-20261101.json",
+      "sha256": "aeaaa0ffe400cd9f99bc3d03185104dfea14076df03f1ff38039d836f05bbb71"
+    },
+    {
+      "path": "tools/verify.py",
+      "sha256": "542239ad438db27500dd6a72c755028832cf810ea87d520d019eacdf842fa274"
+    },
+    {
+      "path": "assets/c/github-live-20261121.m3u",
+      "sha256": "a570a22c4451997b04bec67c81fa84fcee652db395dec3b2454255831b4854d6"
+    },
+    {
+      "path": "assets/c/github-sources-20261121.json",
+      "sha256": "f9436c30b401e3c11e06fb76259fb88389077cdef66b4847c32ac74a8833aced"
     }
   ]
 }

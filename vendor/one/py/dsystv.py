@@ -29,16 +29,16 @@ class Spider(Spider):
         if u.startswith("/"): return self.host + u
         return u
 
-    def _get(self, path):
+    def _get(self, path, with_status=False):
         url = path if path.startswith("http") else self.host + path
         try:
             r = requests.get(url, headers=self.headers, timeout=15); r.encoding = "utf-8"
             if r.status_code >= 400: print("[WARN] status=%s url=%s" % (r.status_code, url))
-            return r.text
+            return (r.text, r.status_code) if with_status else r.text
         except requests.exceptions.Timeout: print("[ERROR] 请求超时: %s" % url)
         except requests.exceptions.ConnectionError: print("[ERROR] 连接错误: %s" % url)
         except Exception as e: print("[ERROR] 请求失败: %s, %s" % (url, str(e)))
-        return None
+        return (None, None) if with_status else None
 
     def _post(self, path, data):
         try:
@@ -118,12 +118,55 @@ class Spider(Spider):
     def homeVideoContent(self): return {"list": self._parse_list(self._get("/index.html"))}
 
     def categoryContent(self, tid, pg, filter, extend):
-        pg = str(pg or "1"); ex = extend or {}
-        real = ex.get("tid") or tid
-        url = "/search.php?searchtype=5&tid=%s&page=%s" % (real, pg)
-        if ex.get("order"): url += "&order=" + ex["order"]
-        lst = self._parse_list(self._get(url))
-        return {"page": int(pg), "pagecount": int(pg) + 1 if lst else int(pg), "limit": 24, "total": 999999, "list": lst}
+        page = max(1, int(pg or "1")); ex = extend or {}
+        real = str(ex.get("tid") or tid)
+        if not real.isdigit():
+            raise ValueError("Invalid category")
+        order = str(ex.get("order") or "")
+        url = "/search.php?searchtype=5&tid=%s&page=%s" % (real, page)
+        if order:
+            url += "&order=" + quote(order)
+        html, status = self._get(url, with_status=True)
+        lst = self._parse_list(html) if status is not None and status < 400 else []
+        if lst:
+            return {"page": page, "pagecount": page + 1, "limit": 24, "total": 999999, "list": lst}
+        challenge = bool(re.search(r'/cdn-cgi/challenge-platform/|cf-chl-|<title>\s*Just a moment|cf-browser-verification', html or '', re.I))
+        if status is not None and status < 400 and not challenge:
+            return {"page": page, "pagecount": page, "limit": 24, "total": 0, "list": []}
+        # The search endpoint can require a browser challenge. The site's public
+        # category overview remains available. Paginate only that finite catalog.
+        # Its rankings do not implement time, total-hit or rating ordering.
+        if order not in ("", "weekhit", "monthhit") or etree is None:
+            return {"page": page, "pagecount": page, "limit": 24, "total": 0, "list": [],
+                    "msg": "该排序暂不可用，请选择默认排序。"}
+        parent = real
+        for parent_id, children in self.subs.items():
+            if any(str(child[1]) == real for child in children):
+                parent = parent_id
+                break
+        html = self._get("/frim/index%s.html" % parent) or ""
+        tree = etree.HTML(html)
+        if tree is None:
+            return {"page": page, "pagecount": page, "limit": 24, "total": 0, "list": []}
+        nodes = tree.xpath('//div[contains(concat(" ",normalize-space(@class)," ")," sub-type-%s ")]' % real) if real != parent else []
+        if real == parent:
+            nodes = tree.xpath('//div[contains(@class,"hy-layout") and contains(@class,"sub-type-")]')
+        if not nodes:
+            return {"page": page, "pagecount": page, "limit": 24, "total": 0, "list": [],
+                    "msg": "暂无该分类内容。"}
+        chunks = []
+        for node in nodes:
+            if order:
+                group = "group-month-all" if order == "monthhit" else "group-movie"
+                selected = node.xpath('.//div[contains(concat(" ",normalize-space(@class)," ")," %s ") and contains(concat(" ",normalize-space(@class)," ")," item ")]' % group)
+                chunks.extend(etree.tostring(x, encoding="unicode") for x in selected)
+            else:
+                chunks.append(etree.tostring(node, encoding="unicode"))
+        catalog = self._parse_list("".join(chunks))
+        count = len(catalog)
+        return {"page": page, "pagecount": max(1, (count + 23) // 24), "limit": 24,
+                "total": count, "list": catalog[(page - 1) * 24:page * 24],
+                "catalog_fallback": True, "msg": "当前显示站点提供的分类目录。"}
 
     def searchContent(self, key, quick, pg="1"):
         pg = str(pg or "1")

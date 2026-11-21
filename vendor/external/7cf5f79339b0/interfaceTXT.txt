@@ -1,6 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV2财经,http://pull-hs-f5.flive.douyincdn.com/media/stream-120105451703763628/index.m3u8?expire=1790323138&sign=a7664c511f424fba5cd9e6340cb32e42&volcSecret=a7664c511f424fba5cd9e6340cb32e42&volcTime=1790323138&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202609181558570E977CF76D82ED320390-mQS5Ng
+CCTV2财经,http://198.204.228.26/live/cctv2hd.m3u8
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8

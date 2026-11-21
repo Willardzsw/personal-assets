@@ -10,13 +10,13 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://t.061899.xyz/tl/tl.php?id=cctv2
+http://198.204.228.26/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://t.061899.xyz/tl/tl.php?id=cctv4
+http://173.208.212.130:8181/1080p/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K 高清" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV-4K 高清.png" group-title="央视频道",CCTV-4K 高清
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790010000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-79fbb544c8b8c50e3c0b067b62b054b8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV8.png" group-title="央视频道",CCTV8
-http://t.061899.xyz/tl/tl.php?id=cctv8
+http://173.208.212.130:8181/720p/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV9.png" group-title="央视频道",CCTV9
 http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV12.png" group-title="央视频道",CCTV12
@@ -24,9 +24,9 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://t.061899.xyz/tl/tl.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV16.png" group-title="央视频道",CCTV16
-http://t.061899.xyz/tl/tl.php?id=cctv16
+http://173.208.234.146/live/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.ifanr.dedyn.io/tv/CCTV17.png" group-title="央视频道",CCTV17
-http://t.061899.xyz/tl/tl.php?id=cctv17
+http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.ifanr.dedyn.io/tv/CGTN.png" group-title="央视频道",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://logo.ifanr.dedyn.io/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
@@ -50,7 +50,7 @@ http://t.061899.xyz/tl/tl.php?id=gxws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/新疆卫视.png" group-title="央视频道",新疆卫视
 http://t.061899.xyz/tl/tl.php?id=xjws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/江苏卫视.png" group-title="央视频道",江苏卫视
-http://t.061899.xyz/tl/tl.php?id=jsws
+http://204.12.221.218:8181/3m1080p/jsws.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/湖北卫视.png" group-title="央视频道",湖北卫视
 http://t.061899.xyz/tl/tl.php?id=hubws
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://logo.ifanr.dedyn.io/tv/熊猫直播.png" group-title="央视频道",熊猫直播
@@ -58,7 +58,7 @@ https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/甘肃卫视.png" group-title="央视频道",甘肃卫视
 http://t.061899.xyz/tl/tl.php?id=gsws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/贵州卫视.png" group-title="央视频道",贵州卫视
-http://t.061899.xyz/tl/tl.php?id=gzws
+http://198.204.228.26/live/gzwshd.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/重庆卫视.png" group-title="央视频道",重庆卫视
 http://t.061899.xyz/tl/tl.php?id=cqws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.ifanr.dedyn.io/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
